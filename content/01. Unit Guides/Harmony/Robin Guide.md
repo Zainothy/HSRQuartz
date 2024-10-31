@@ -9,7 +9,7 @@ cssclasses:
   - center-images
 Credit: Lucian
 ---
-## **Character <u>Base</u> Stats (Level 80):
+## Character <u>Base</u> Stats (Level 80):
 HP = 1281        DEF = 485        ATK = 640        SPD = 102**
 
 ## <u>1. Stat Goals</u>

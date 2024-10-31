@@ -2,7 +2,7 @@
 Topic: Speed and Breakpoints
 tags:
   - HSR
-  - "#gaming"
+  - "#SpeedAV"
 aliases:
   - Speed
   - Breakpoint
@@ -21,15 +21,15 @@ share_updated: 2024-10-23T22:25:11+01:00
 
 Thresholds are specific levels of speed stats needed on a character in order to gain a certain amount of actions per cycle, for example. If we wanted 3 turns on a character in cycle 0, we would need 200 speed. 
 **Thresholds shown below**
-![[Pasted image 20240816184541.png| *Credit: Mr Pokke*]]
+![[Pasted image 20240816184541.png]]
 
-![[Pasted image 20240816184217.png| Speed Thresholds Across **Cycles**]]
+![[Pasted image 20240816184217.png]]
 
-*Credit: Guoba Certified*
+*Credit: Guoba Certified and MrPokke*
 
 Speed can be equated to distance divided by MoC Action Value, this is shown in the above charts. If you wanted to go twice on the first cycle, you would do: 
 $${20,000\over150}=133.4$$
-We would do this because, to gain a singular action. A unit needs to move across 10,000 distance: therefore, if we want our unit to move twice we need 20,000 distance to be travelled. We want this distance to be travelled twice in the first cycle, and this means that we would need the unit to travel 20,000 distance within 150 Action Value, because the first cycle of MoC is 150 Action Value. After each cycle, we add 100 AV: 250, 350, 450, etc.
+	We would do this because, to gain a singular action. A unit needs to move across 10,000 distance: therefore, if we want our unit to move twice we need 20,000 distance to be travelled. We want this distance to be travelled twice in the first cycle, and this means that we would need the unit to travel 20,000 distance within 150 Action Value, because the first cycle of MoC is 150 Action Value. After each cycle, we add 100 AV: 250, 350, 450, etc.
 
 To put this simply, when X= No. of Turns Wanted in Cycle 
 $${X {\space}\times\frac{10,000-\text{AV \ Advance}}{AV}}={\text SPD}$$
