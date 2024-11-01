@@ -3,43 +3,161 @@
 // put your custom CSS here!
 // Additional padding for first and last child of table cells in various views
 .cards {
-  table {
-    .table-100 table th:first-child,
-    .table-100 table td:first-child,
-    .table-100 .dataview.table-view-table th:first-child,
-    .table-100 .dataview.table-view-table td:first-child,
-    .table-100 .markdown-source-view.mod-cm6 td:first-child,
-    .table-100 .markdown-source-view.mod-cm6 th:first-child {
-      padding-left: 20px !important;
+  /* MIT License | Copyright (c) Stephan Ango (@kepano) 
+
+Cards snippet for Obsidian
+
+author: @kepano
+version: 3.0.1
+
+Support my work:
+https://github.com/sponsors/kepano
+
+*/
+
+body {
+// Variables for card styling
+:root {
+  --cards-min-width: 180px;
+  --cards-max-width: 1fr;
+  --cards-mobile-width: 120px;
+  --cards-image-height: 400px;
+  --cards-padding: 1.2em;
+  --cards-image-fit: contain;
+  --cards-background: transparent;
+  --cards-background-hover: transparent;
+  --cards-border-width: 1px;
+  --cards-aspect-ratio: auto;
+  --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
+}
+
+// Responsive adjustments
+@media (max-width: 400pt) {
+  body {
+    --cards-min-width: var(--cards-mobile-width);
+  }
+}
+
+// Card table layout adjustments
+.cards {
+  table.dataview {
+    --table-width: 100%;
+    --table-edge-cell-padding-first: calc(var(--cards-padding) / 2);
+    --table-edge-cell-padding-last: calc(var(--cards-padding) / 2);
+    --table-cell-padding: calc(var(--cards-padding) / 3) calc(var(--cards-padding) / 2);
+    line-height: 1.3;
+
+    tbody {
+      display: grid;
+      grid-template-columns: var(--cards-columns);
+      grid-column-gap: 0.75rem;
+      grid-row-gap: 0.75rem;
+      padding: 0.5rem 0;
     }
 
-    .table-100 table th:last-child,
-    .table-100 table td:last-child,
-    .table-100 .dataview.table-view-table th:last-child,
-    .table-100 .dataview.table-view-table td:last-child {
-      padding-right: 20px;
+    > tbody > tr {
+      background-color: var(--cards-background);
+      border: var(--cards-border-width) solid var(--background-modifier-border);
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+      padding: 0 0 calc(var(--cards-padding) / 3) 0;
+      border-radius: 6px;
+      overflow: hidden;
+      transition: box-shadow 0.15s linear;
+      max-width: var(--cards-max-width);
+      height: auto;
+
+      &:hover {
+        background-color: var(--cards-background-hover) !important;
+        border-color: var(--background-modifier-border-hover);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.025);
+      }
     }
 
-    // Additional customization for Quartz site compatibility
-    .quartz-container .table-100 table th:first-child,
-    .quartz-container .table-100 table td:first-child {
-      padding-left: 20px !important;
+    tbody > tr > td {
+      &:first-child {
+        font-weight: var(--bold-weight);
+        border: none;
+      }
+      &:first-child a {
+        display: block;
+      }
+      &:last-child {
+        border: none;
+      }
+      &:not(:first-child) {
+        font-size: calc(var(--table-text-size) * 0.9);
+        color: var(--text-muted);
+      }
+      a {
+        text-decoration: none;
+      }
+
+      /* Paragraphs */
+      > * {
+        padding: calc(var(--cards-padding) / 3) 0;
+      }
+
+      /* Links */
+      &:not(:last-child):not(:first-child) {
+        padding: 4px 0;
+        border-bottom: 1px solid var(--background-modifier-border);
+        width: calc(100% - var(--cards-padding));
+        margin: 0 calc(var(--cards-padding) / 2);
+      }
     }
 
-    .quartz-container .table-100 table th:last-child,
-    .quartz-container .table-100 table td:last-child {
-      padding-right: 20px;
-    }
-
-    // Optional: Add padding adjustments for mobile responsiveness
-    @media (max-width: 768px) {
-      .table-100 table th:first-child,
-      .table-100 table td:first-child,
-      .table-100 table th:last-child,
-      .table-100 table td:last-child {
-        padding-left: 10px !important;
-        padding-right: 10px !important;
+    /* Images */
+    td:has(img) {
+      padding: 0 !important;
+      background-color: var(--background-secondary);
+      display: block;
+      margin: 0;
+      width: 100%;
+      img {
+        aspect-ratio: var(--cards-aspect-ratio);
+        width: 100%;
+        object-fit: var(--cards-image-fit);
+        max-height: var(--cards-image-height);
       }
     }
   }
 }
+
+// Card lists styling for Quartz compatibility
+.list-cards.markdown-preview-view {
+  div > ul {
+    display: grid;
+    gap: 0.75rem;
+    grid-template-columns: var(--cards-columns);
+    padding: 0;
+    line-height: var(--line-height-tight);
+
+    > li {
+      background-color: var(--cards-background);
+      padding: calc(var(--cards-padding) / 2);
+      border-radius: var(--radius-s);
+      border: var(--cards-border-width) solid var(--background-modifier-border);
+      overflow: hidden;
+      margin-inline-start: 0;
+    }
+  }
+}
+
+// Responsive column adjustments
+@media (min-width: 400pt) {
+  .cards-cols-3 {
+    --cards-columns: repeat(3, minmax(0, 1fr));
+  }
+  .cards-cols-4 {
+    --cards-columns: repeat(4, minmax(0, 1fr));
+  }
+  .cards-cols-5 {
+    --cards-columns: repeat(5, minmax(0, 1fr));
+  }
+  .cards-cols-6 {
+    --cards-columns: repeat(6, minmax(0, 1fr));
+  }
+}
+  }
