@@ -23,9 +23,9 @@ share: "true"
 
 Thresholds are specific levels of speed stats needed on a character in order to gain a certain amount of actions per cycle, for example. If we wanted 3 turns on a character in cycle 0, we would need 200 speed. 
 **Thresholds shown below**
-![[Pasted image 20240816184541.png|Pasted image 20240816184541.png]]
+![[Pasted image 20240816184541.png]]
 
-![[Pasted image 20240816184217.png|Pasted image 20240816184217.png]]
+![[Pasted image 20240816184217.png]]
 
 *Credit: Guoba Certified and MrPokke*
 
