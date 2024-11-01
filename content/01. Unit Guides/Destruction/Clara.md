@@ -1,5 +1,6 @@
 ---
 Topic: Character Guide
+Element: Physical
 share: "true"
 tags:
   - Physical
@@ -9,8 +10,11 @@ tags:
 cssclasses:
   - center-titles
   - center-images
+splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frerollcdn.com%2FSTARRAIL%2FCharacters%2FFull%2F1107.png&f=1&nofb=1&ipt=2a83376a006ba6706389943fdb374e20c9f8799ca92ebb5f62e2c259dc752eb9&ipo=images
 ---
-> [!tip] ## 1. Short Character Overview
+
+
+[!tip] ## 1. Short Character Overview
 > Clara is a Physical element Damage Dealer, utilizing Follow-up Attacks initiated as Counters to enemies attacking her or, with her ultimate active, her allies as her main source of damage. She is a good starter unit that struggles compared to some of the more powerful Damage Dealers late game, especially Yunli who is a direct upgrade. 
 ## 2. Teammates
 
