@@ -1,5 +1,4 @@
 ---
-title: 
 share: "true"
 ---
 
