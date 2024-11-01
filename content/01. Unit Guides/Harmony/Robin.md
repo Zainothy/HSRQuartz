@@ -12,10 +12,9 @@ cssclasses:
   - center-images
 Credit: Lucian
 share: "true"
-splash_art: file:///C:\Users\mayas\Downloads\Robin.(Honkai.Star.Rail).full.4168173-624255711.png
+splash_art: https://i.imgur.com/OPurfOP.png
 ---
 HP = 1281        DEF = 485        ATK = 640        SPD = 102**
-
 ## 1. Stat Goals
 These are the stats you should aim to have outside of battle.
 

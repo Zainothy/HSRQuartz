@@ -8,11 +8,10 @@ tags:
   - "#DPS"
   - DPS
 cssclasses:
-  - center-titles
   - center-images
-splash_art: file:///C:/Users/mayas/Downloads/1107-3661944653.png
+  - center-titles
+splash_art: https://i.imgur.com/mETG4q0.png
 ---
-
 
 [!tip] ## 1. Short Character Overview
 > Clara is a Physical element Damage Dealer, utilizing Follow-up Attacks initiated as Counters to enemies attacking her or, with her ultimate active, her allies as her main source of damage. She is a good starter unit that struggles compared to some of the more powerful Damage Dealers late game, especially Yunli who is a direct upgrade. 
@@ -75,17 +74,17 @@ Always try to use Clara’s skill if possible, to gain as much energy and deal a
     
 ## 6. Light Cones
 
-|   |   |
-|---|---|
-|Dance at Sunset|Best In Slot Light Cone by far. Increase in Aggro allows Clara to be a lot more consistent.|
-|The Unreachable Side|Always better than Clara’s signature light cone. Is a decent Light Cone for most Destruction path characters.|
-|Something Irreplaceable|Worth Light Cone to buy from the shop if either Aeon is used on another character or don’t have Aeon at all.  <br>  <br>It is not worth the cost of 30 pulls.|
-|Brighter Than the Sun|Needs Clara to basic attack 2 times for her first two turns. Then rotate between skill and basic to maintain 2 stacks.  <br>  <br>Provides a monstrous amount of ATK once fully stacked.  <br>  <br>Not worth buying from Starlight Exchange instead of 30 pulls.|
-|On the Fall of An Aeon|Generally good Light Cone and obtainable together with its superimpositions for free through Herta’s Shop.|
-|Nowhere to Run|Very similar to Aeon damage at S5, with Aeon having a  higher ATK buff at max stacks but lower ATK buff at lower stack amounts.  <br>  <br>Superimposition 1 is worse than the 2 options below: Ninja Record: Sound Hunt and A Secret Vow.    <br>  <br>Obtained through buying the Nameless Glory (Battle Pass) and getting to level 30 on it.|
-|Ninja Record: Sound Hunt|About the same as Nowhere to Run at S2, but worse onwards.  <br>  <br>Limited-Time Event Light Cone. Still|
-|A Secret Vow|Better than Ninja Record: Sound Hunt at S4+. Inconsistent passive.  <br>  <br>Obtained through Gacha.|
-|Woof! Walk Time!|Obtained through the MoC shop, together with its superimpositions.  <br>  <br>Only use if you have literally nothing else. Pls upgrade|
+|                          |                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dance at Sunset          | Best In Slot Light Cone by far. Increase in Aggro allows Clara to be a lot more consistent.                                                                                                                                                                                                                                                     |
+| The Unreachable Side     | Always better than Clara’s signature light cone. Is a decent Light Cone for most Destruction path characters.                                                                                                                                                                                                                                   |
+| Something Irreplaceable  | Worth Light Cone to buy from the shop if either Aeon is used on another character or don’t have Aeon at all.  <br>  <br>It is not worth the cost of 30 pulls.                                                                                                                                                                                   |
+| Brighter Than the Sun    | Needs Clara to basic attack 2 times for her first two turns. Then rotate between skill and basic to maintain 2 stacks.  <br>  <br>Provides a monstrous amount of ATK once fully stacked.  <br>  <br>Not worth buying from Starlight Exchange instead of 30 pulls.                                                                               |
+| On the Fall of An Aeon   | Generally good Light Cone and obtainable together with its superimpositions for free through Herta’s Shop.                                                                                                                                                                                                                                      |
+| Nowhere to Run           | Very similar to Aeon damage at S5, with Aeon having a  higher ATK buff at max stacks but lower ATK buff at lower stack amounts.  <br>  <br>Superimposition 1 is worse than the 2 options below: Ninja Record: Sound Hunt and A Secret Vow.    <br>  <br>Obtained through buying the Nameless Glory (Battle Pass) and getting to level 30 on it. |
+| Ninja Record: Sound Hunt | About the same as Nowhere to Run at S2, but worse onwards.  <br>  <br>Limited-Time Event Light Cone. Still                                                                                                                                                                                                                                      |
+| A Secret Vow             | Better than Ninja Record: Sound Hunt at S4+. Inconsistent passive.  <br>  <br>Obtained through Gacha.                                                                                                                                                                                                                                           |
+| Woof! Walk Time!         | Obtained through the MoC shop, together with its superimpositions.  <br>  <br>Only use if you have literally nothing else. Pls upgrade                                                                                                                                                                                                          |
 
   
 
