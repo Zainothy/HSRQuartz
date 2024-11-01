@@ -1,9 +1,17 @@
 ---
+Topic: Character Guide
 share: "true"
+tags:
+  - Physical
+  - Destruction
+  - "#DPS"
+  - DPS
+cssclasses:
+  - center-titles
+  - center-images
 ---
 > [!tip] ## 1. Short Character Overview
 > Clara is a Physical element Damage Dealer, utilizing Follow-up Attacks initiated as Counters to enemies attacking her or, with her ultimate active, her allies as her main source of damage. She is a good starter unit that struggles compared to some of the more powerful Damage Dealers late game, especially Yunli who is a direct upgrade. 
-
 ## 2. Teammates
 
 ### **Sustain Slot Characters:**  
