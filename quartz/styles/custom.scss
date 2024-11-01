@@ -1,20 +1,45 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// Additional padding for first and last child of table cells in various views
 .cards {
-    table {
-        .table-100 table th:first-child,
-        .table-100 table td:first-child,
-        .table-100 .dataview.table-view-table th:first-child,
-        .table-100 .dataview.table-view-table td:first-child,
-        .table-100 .markdown-source-view.mod-cm6 td:first-child,
-        .table-100 .markdown-source-view.mod-cm6 th:first-child {
-          padding-left: 20px !important; }
-        .table-100 table th:last-child,
-        .table-100 table td:last-child,
-        .table-100 .dataview.table-view-table th:last-child,
-        .table-100 .dataview.table-view-table td:last-child {
-          padding-right: 20px; }
+  table {
+    .table-100 table th:first-child,
+    .table-100 table td:first-child,
+    .table-100 .dataview.table-view-table th:first-child,
+    .table-100 .dataview.table-view-table td:first-child,
+    .table-100 .markdown-source-view.mod-cm6 td:first-child,
+    .table-100 .markdown-source-view.mod-cm6 th:first-child {
+      padding-left: 20px !important;
+    }
+
+    .table-100 table th:last-child,
+    .table-100 table td:last-child,
+    .table-100 .dataview.table-view-table th:last-child,
+    .table-100 .dataview.table-view-table td:last-child {
+      padding-right: 20px;
+    }
+
+    // Additional customization for Quartz site compatibility
+    .quartz-container .table-100 table th:first-child,
+    .quartz-container .table-100 table td:first-child {
+      padding-left: 20px !important;
+    }
+
+    .quartz-container .table-100 table th:last-child,
+    .quartz-container .table-100 table td:last-child {
+      padding-right: 20px;
+    }
+
+    // Optional: Add padding adjustments for mobile responsiveness
+    @media (max-width: 768px) {
+      .table-100 table th:first-child,
+      .table-100 table td:first-child,
+      .table-100 table th:last-child,
+      .table-100 table td:last-child {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
     }
   }
-  
+}
