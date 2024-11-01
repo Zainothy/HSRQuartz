@@ -149,7 +149,7 @@ Some examples of damage dealers Robin works well with and their team, other than
 
 - A unit needs 157.500 SPD to have 3 Turns total within Robin Ultimate with 1 Eagle proc, or 158.400 with one S5 DDD proc.
 
-## 10. **Notable Eidolons:**
+# **Notable Eidolons:**
 1. **Eidolon 1, Land of Smiles** During Robin's ultimate, all allies' all-type resistance penetration increases by 24%.
   ↑ This is an insane buff for a first eidolon, even greater than that of Ruan Mei, being a 24% to 40% increase in damage by itself (depending on enemy resistance). The caveat is that it's only active during her ultimate.
 2. **Eidolon 6, Moonless Midnight** The first 8 instances of Additional Damage from her ultimate will now deal 450% more Crit. DMG. 
