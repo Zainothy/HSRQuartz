@@ -12,6 +12,7 @@ cssclasses:
   - center-images
 Credit: Lucian
 share: "true"
+splash_art: file:///C:\Users\mayas\Downloads\Robin.(Honkai.Star.Rail).full.4168173-624255711.png
 ---
 HP = 1281        DEF = 485        ATK = 640        SPD = 102**
 
