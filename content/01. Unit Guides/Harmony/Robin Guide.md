@@ -10,10 +10,9 @@ cssclasses:
 Credit: Lucian
 share: "true"
 ---
-## Character <u>Base</u> Stats (Level 80):
 HP = 1281        DEF = 485        ATK = 640        SPD = 102**
 
-## <u>1. Stat Goals</u>
+## 1. Stat Goals
 These are the stats you should aim to have outside of battle.
 
 - **3100+ HP**     
@@ -22,12 +21,12 @@ These are the stats you should aim to have outside of battle.
 - **120 SPD** OR **116.67 SPD** (If you don't need it to proc sets)
 - Using her signature light cone, aim for 1300+ DEF and 4500+ ATK.
 
-## <u>2. Traces Priority</u>
+## 2. Traces Priority
 **Ultimate > Skill > Talent**
 **All ascension ability are important and must be unlocked.**
 - Stat bonus traces should be unlocked according to stat priority.
 
-## <u>3. Light Cone Rankings </u>
+## 3. Light Cone Rankings 
 1. **Flowing Nightglow:** [Robin's Signature 5★ Light Cone]
 	1. `Base ATK: 635   Base HP: 953   Base DEF: 463`
 	Robin's ERR is increased by 3% every time an ally attacks, up to 5 stacks and using Ultimate resets the stacks to increase the wearer's ATK by 48% and all allies' DMG (Bonus) by 24% for 1 turn. Has the highest amount of base ATK out of her options. 
@@ -50,7 +49,7 @@ These are the stats you should aim to have outside of battle.
 	`Base ATK: 476   Base HP: 953   Base DEF: 331`
 	At the start of the wearer's turn, provides **1** of 3 effects: Increases all allies' ERR by 12%, all allies' ATK by 20% or all allies' Crit. DMG by 24%. Rather RNG but is still an option if you don't have any of the others on the list.
 
-## **<u>4. Main Stats</u>**
+## **4. Main Stats**
 - **Body**: ATK
 - **Feet**: ATK
 - **Sphere**: ATK
@@ -58,7 +57,7 @@ These are the stats you should aim to have outside of battle.
 - Depending on the team and your eidolon investment, you might be able to use a ATK rope instead of a ERR one.
 NOTE: **If you get a Physical DMG Bonus main stat sphere with good substats, it's totally fine to use it. You may even find better results than with ATK.**
 
-## <u>5. Subsidiary Stats Priority </u>
+## 5. Subsidiary Stats Priority 
 1. **Speed** Minimum necessary is 116.667, or 120 if you need to for planar ornament set effects.
 2. **ATK%** Prioritise this until ~4000 ATK without Signature LC / ~4500 ATK with Sign LC.
 3. **HP% & DEF%**
@@ -66,7 +65,7 @@ NOTE: **If you get a Physical DMG Bonus main stat sphere with good substats, it'
 **Note:**
 - Robin can't be inflicted with crowd control debuffs during her ultimate, making effect resistance sub-stats nearly useless for her specifically.
 - Robin's 'Additional Physical DMG' is **fixed** at 100% Crit. RATE and 150% Crit. DMG. This makes building those stats __useless__ on her as they don't increase the additional damage of her ultimate.
-## <u>6. Relic Sets</u>
+## 6. Relic Sets
 **Set effects are not necessary**
 Robin's best relic set is a combination of ATK buffing 2-piece sets. Sets usable on Robin:
 - **2-piece The Wind-Soaring Valorous**
@@ -78,7 +77,7 @@ Robin's best relic set is a combination of ATK buffing 2-piece sets. Sets usable
 
 - **2-piece Pioneer Diver of Dead Waters** Good for her personal damage but doesn't increase her attack buff, bringing less team damage increase.
 
-## <u>7. Planar Sets </u>
+## 7. Planar Sets 
 Planar Ornament set effects are often quite good so we recommend going for them if you can. The difference between planar sets isn't too huge overall.
 1. **Lushaka, the Sunken Seas** `Best-in-Slot` Increases the wearer's ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%.
 
@@ -99,20 +98,20 @@ Planar Ornament set effects are often quite good so we recommend going for them 
 
 
 
-## <u>8. Energy & Rotations:</u>
+## 8. Energy & Rotations:
 >[!info] Rotation Info: 
 >Robin's rotation depends on her allies.** In most teams, she will have to take 2 turns after her ultimate ends before she can use her ultimate again, due to the lower frequency of ally attacks.
 >- With a average 120 SPD Robin, you will need to wait another 83.333 Action Value before being able to use Robin's ultimate again, which is rather slow.
 
 
-**<u>However, there are ways to have Robin use her ultimate more often.</u>**
+**However, there are ways to have Robin use her ultimate more often.**
 To make Robin use her ultimate from one skill usage in most teams, the easiest way is to have a abundance path character like Gallagher use Quid Pro Quo light cone. Every time this abundance path character's turn comes up, they will be able to give Robin 16 Energy, a whole tenth of her energy cost. 
 - The best abuser of this light cone is Gallagher with the 100% Action Forward after using his ultimate.
 - Huohuo can help Robin even more with her ultimate that regenerates energy, but she will still have to use Quid Pro Quo for consistency as her own ultimate requires charging.
 
 Teams that have high attack frequency (please refer to section 9 of the guide for examples of such teams) __**don't**__ require an abundance character with Quid Pro Quo to generate enough energy for Robin so she can use her Ultimate right after her previous one ends.
 
-## <u> 9. Teams and RGM Relevancy:</u>
+##  9. Teams and RGM Relevancy:
 **RGM = Rotating Game Mode (MoC, PF and AS)**
 `Robin is one of the most universal supports in the game`, making her relevant in all content.
 
@@ -143,7 +142,7 @@ Some examples of damage dealers Robin works well with and their team, other than
 
 **If you don't want to use a sustain character and are wondering what you could use, you should ask in <#1108990029365264444>.** 
 
-## <u>10. Important Things to Note:</u>
+## 10. Important Things to Note:
 *These are things we didn't think fit into other sections and/or don't a dedicated section of their own.*
 
 - If you have buffs that only last for 1 Turn then you can use Robin's ultimate again before she takes turn (after Concerto ends) to retain the buff, granted you have the energy to do so.
@@ -158,7 +157,7 @@ Some examples of damage dealers Robin works well with and their team, other than
 3. **Eidolon 2, Afternoon Tea For Two** The talent's energy generation increases from 2 to 3 for every ally attack and increases all allies' SPD by 16% during the Ultimate's duration.
    ↑ This eidolon makes it very easy to have a permanent up-time on her ultimate in most if not all teams, even allowing her to use a ATK% Rope in FuA teams. Additionally, the 16% SPD buff can be useful in some situations.
 
-## <u>11. Build Examples</u>
+## 11. Build Examples
 We will be giving you 3 examples of a good build.
 1. Using Robin's Signature 5★ Light Cone
 2. Using Bronya's Signature 5★ Light Cone
