@@ -166,9 +166,9 @@ We will be giving you 3 examples of a good build.
 - We'll also show an example of a build with almost 0 ATK sub-stats achieving 4000 ATK on Robin with her signature, simply having the right main stats and good 2-Pc set effects.
 - Notice how the relics don't change depending on the light cone.
 
-![[Pasted image 20241031033303.png|Pasted image 20241031033303.png]]
-![[Pasted image 20241031033307.png|Pasted image 20241031033307.png]]
-![[Pasted image 20241031033310.png|Pasted image 20241031033310.png]]
-![[Pasted image 20241031033314.png|Pasted image 20241031033314.png]]
+![[Pasted image 20241101185752.png|Pasted image 20241101185752.png]]
+![[Pasted image 20241101185803.png|Pasted image 20241101185803.png]]
+![[Pasted image 20241101185808.png|Pasted image 20241101185808.png]]
+![[Pasted image 20241101185813.png|Pasted image 20241101185813.png]]
 **Physical Sphere Robin:**
-![[Pasted image 20241031033334.png|Pasted image 20241031033334.png]]
+![[Pasted image 20241101185823.png|Pasted image 20241101185823.png]]
