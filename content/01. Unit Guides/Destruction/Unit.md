@@ -10,7 +10,7 @@ tags:
 cssclasses:
   - center-titles
   - center-images
-splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frerollcdn.com%2FSTARRAIL%2FCharacters%2FFull%2F1107.png&f=1&nofb=1&ipt=2a83376a006ba6706389943fdb374e20c9f8799ca92ebb5f62e2c259dc752eb9&ipo=images
+splash_art: 
 ---
 
 
@@ -59,7 +59,7 @@ Sub dps characters are only really valuable in teams with Robin, maybe excluding
 
 > [!context] Team Compositions:
 > **Best-in-Slot:** 
-> 	Robin,Sparkle,Huohuo,[[Clara|Clara]] 
+> 	Robin,Sparkle,Huohuo,[[Unit|Unit]] 
 
 ## 4. How to Play the Unit
 
