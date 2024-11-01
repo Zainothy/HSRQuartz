@@ -1,5 +1,4 @@
 ---
-title: Home
 share: "true"
 cssclasses:
   - cards
