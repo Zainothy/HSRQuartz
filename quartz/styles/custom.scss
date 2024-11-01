@@ -3,20 +3,7 @@
 // put your custom CSS here!
 // Additional padding for first and last child of table cells in various views
 .cards {
-  /* MIT License | Copyright (c) Stephan Ango (@kepano) 
-
-Cards snippet for Obsidian
-
-author: @kepano
-version: 3.0.1
-
-Support my work:
-https://github.com/sponsors/kepano
-
-*/
-
-body {
-// Variables for card styling
+ // Card layout settings
 :root {
   --cards-min-width: 180px;
   --cards-max-width: 1fr;
@@ -31,14 +18,14 @@ body {
   --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
 }
 
-// Responsive adjustments
+// Mobile adjustments
 @media (max-width: 400pt) {
   body {
     --cards-min-width: var(--cards-mobile-width);
   }
 }
 
-// Card table layout adjustments
+// Quartz-compatible table and card styling
 .cards {
   table.dataview {
     --table-width: 100%;
@@ -77,7 +64,7 @@ body {
 
     tbody > tr > td {
       &:first-child {
-        font-weight: var(--bold-weight);
+        font-weight: bold;
         border: none;
       }
       &:first-child a {
@@ -94,12 +81,12 @@ body {
         text-decoration: none;
       }
 
-      /* Paragraphs */
+      // Paragraph adjustments
       > * {
         padding: calc(var(--cards-padding) / 3) 0;
       }
 
-      /* Links */
+      // Link and padding adjustments
       &:not(:last-child):not(:first-child) {
         padding: 4px 0;
         border-bottom: 1px solid var(--background-modifier-border);
@@ -108,7 +95,7 @@ body {
       }
     }
 
-    /* Images */
+    // Image adjustments
     td:has(img) {
       padding: 0 !important;
       background-color: var(--background-secondary);
@@ -125,7 +112,7 @@ body {
   }
 }
 
-// Card lists styling for Quartz compatibility
+// List card adjustments for Quartz
 .list-cards.markdown-preview-view {
   div > ul {
     display: grid;
@@ -137,7 +124,7 @@ body {
     > li {
       background-color: var(--cards-background);
       padding: calc(var(--cards-padding) / 2);
-      border-radius: var(--radius-s);
+      border-radius: 6px;
       border: var(--cards-border-width) solid var(--background-modifier-border);
       overflow: hidden;
       margin-inline-start: 0;
@@ -145,7 +132,7 @@ body {
   }
 }
 
-// Responsive column adjustments
+// Column adjustments for responsive layouts
 @media (min-width: 400pt) {
   .cards-cols-3 {
     --cards-columns: repeat(3, minmax(0, 1fr));
