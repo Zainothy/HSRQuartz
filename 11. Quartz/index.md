@@ -13,20 +13,12 @@ Welcome to the Village’s HSR Guides. Here you can access a catalogue of essent
 ### **DPS:** 
 | File                                                       | Last Updated                | Element  | Path        | Picture |
 | ---------------------------------------------------------- | --------------------------- | -------- | ----------- | ------- |
-<<<<<<< HEAD
-| [[11. Quartz/01. Unit Guides/Destruction/Clara.md\|Clara]] | 9:47 PM - November 02, 2024 | Physical | Destruction | ![](\-) |
-=======
 | [[./01. Unit Guides/Destruction/Clara\|Clara]] | 9:47 PM - November 02, 2024 | Physical | Destruction | ![](\-) |
->>>>>>> origin/Main-Personal-11-2-2024
 
 ### **Supports:**
 | File                                                   | Last Updated                | Element  | Path    | Picture |
 | ------------------------------------------------------ | --------------------------- | -------- | ------- | ------- |
-<<<<<<< HEAD
-| [[11. Quartz/01. Unit Guides/Harmony/Robin.md\|Robin]] | 9:46 PM - November 02, 2024 | Physical | Harmony | ![](\-) |
-=======
 | [[./01. Unit Guides/Harmony/Robin\|Robin]] | 9:46 PM - November 02, 2024 | Physical | Harmony | ![](\-) |
->>>>>>> origin/Main-Personal-11-2-2024
 
 
 **Sustain:**
