@@ -12,7 +12,7 @@ cssclasses:
   - center-images
 Credit: Lucian
 share: "true"
-splash_art: 
+splash_art: https://i.imgur.com/OPurfOP.png
 Element: Physical
 ---
 HP = 1281        DEF = 485        ATK = 640        SPD = 102**
