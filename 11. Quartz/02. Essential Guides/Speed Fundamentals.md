@@ -24,9 +24,15 @@ share_link: https://share.note.sx/2l1durea#aJlRydY6IvgiMP01BMKzzrpvfKlAuIMdMJZAf
 
 Thresholds are specific levels of speed stats needed on a character in order to gain a certain amount of actions per cycle, for example. If we wanted 3 turns on a character in cycle 0, we would need 200 speed. 
 **Thresholds shown below**
+<<<<<<< HEAD
 ![[Pasted image 20240816184541.png|Pasted image 20240816184541.png]]
 
 ![[Pasted image 20240816184217.png|Pasted image 20240816184217.png]]
+=======
+![[../Media/Pasted image 20240816184541.png|Pasted image 20240816184541.png]]
+
+![[../Media/Pasted image 20240816184217.png|Pasted image 20240816184217.png]]
+>>>>>>> origin/Main-Personal-11-2-2024
 
 *Credit: Guoba Certified and MrPokke*
 
@@ -53,7 +59,11 @@ Temporary speed buffs are more complex, of course. Let’s use TY as an example,
 
 Here is an example formula for how we can calculate SPD requirements with Temp speed buffs, however this is not always the case as SPD buffs can happen between Action Gauges. It is the most versatile formula available, as there is no one formula that can work for calculating with temporary buffs.
 
+<<<<<<< HEAD
 ![[Pasted image 20240817025722.png| Source: Pokke’s Village]]
+=======
+![[../Media/Pasted image 20240817025722.png| Source: Pokke’s Village]]
+>>>>>>> origin/Main-Personal-11-2-2024
 
 For TY’s Case, in an EAA Rotation. AV can be calculated like this: 
 $$AV={10,000\times(1-\text{TotalAF})\over(SPD+\text Buff \times BaseSPD +FlatBuff )}$$
@@ -68,5 +78,9 @@ $$
 
 Here is our general formula, after shortening and substituting the equation. We get this, where X=SPD:
 $$f\left(x\right)=\frac{10000-4900}{x}+\frac{10000}{x+22.4}+\frac{10000}{x}-150$$
+<<<<<<< HEAD
 This can then be put into a [graphing calculator](https://www.desmos.com/calculator), and we can find the intercept, this intercept is the breakpoint for 3 turns in cycle zero with the above setup. ![[Pasted image 20240821000559.png|Pasted image 20240821000559.png]]
+=======
+This can then be put into a [graphing calculator](https://www.desmos.com/calculator), and we can find the intercept, this intercept is the breakpoint for 3 turns in cycle zero with the above setup. ![[../Media/Pasted image 20240821000559.png|Pasted image 20240821000559.png]]
+>>>>>>> origin/Main-Personal-11-2-2024
 	
