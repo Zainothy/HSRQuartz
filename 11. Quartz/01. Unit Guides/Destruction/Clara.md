@@ -10,7 +10,7 @@ tags:
 cssclasses:
   - center-images
   - center-titles
-splash_art: https://i.imgur.com/mETG4q0.png
+splash_art: 
 ---
 ## 1. Character Overview
 > [!context] Profile
