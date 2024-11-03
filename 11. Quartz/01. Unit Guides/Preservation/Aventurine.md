@@ -109,7 +109,7 @@ In the case that you find yourself with a charged Tingyun ultimate, but with Rob
 
 >[!warning] Sig: 
 >In this team, Aventurine will want his signature light cone to be able to generate ultimate stacks for Acheron. If he doesn’t have it then he will simply just be a sustain, not even being able to use Trend of the Universal Market due to Jiaoqiu.  
-Jiaoqiu disabling Trend of the Universal Market happens because of Acheron’s cap of 1 stack gain per action. Jiaoqiu already reapplies his debuff at the start of the enemy’s turn, so even if they attack Gepard to have them get burned, it wouldn’t generate another stack as that second debuff was still applied in that same action.  
+Jiaoqiu disabling Trend of the Universal Market happens because of Acheron’s cap of 1 stack gain per action. Jiaoqiu already reapplies his debuff at the start of the enemy’s turn, so even if they attack Aventurine to have them get burned, it wouldn’t generate another stack as that second debuff was still applied in that same action.  
   
 >[!info] Team Setup & Explanation:
 >Use Acheron’s ultimate when all Jiaoqiu stacks are up and after Pela’s ultimate has been used on the enemies, that way it will deal the most damage.  
@@ -187,7 +187,7 @@ We only recommend using SPD boots for a Damage Dealer Aventurine build when you�
 
 |   |   |
 |---|---|
-|Inert Salsotto|While it can provide more damage then Duran in a situation with slow enemies and lack of team follow ups, the efficiency of the domain is poor as the only other user of Belobog is Gepard and most dps unit do not use Salsotto.|
+|Inert Salsotto|While it can provide more damage then Duran in a situation with slow enemies and lack of team follow ups, the efficiency of the domain is poor as the only other user of Belobog is Aventurine and most dps unit do not use Salsotto.|
 |Duran Dynasty of Runny Wolves|The best overall set for Aventurines damage, the frequency of follow ups from himself and his usual teams are able to stack its effect quickly.|
 |Broken Keel|Keel sacrifices Aventurines personal damage to help the team, can be farmed for other supports as its cd bonus will always be active provided your shields are up.|
 |Belobog of the Architects|Not recommended for sub dps- lack of damage|
