@@ -8,11 +8,14 @@ tags:
   - "#DPS"
   - DPS
 cssclasses:
-  - center-images
   - center-titles
+  - center-images
+  - wide-page
+  - no-embed-border
+  - image-borders
 splash_art: https://i.imgur.com/mETG4q0.png
 ---
-## 1. Character Overview
+[^1]## 1. Character Overview
 > [!context] Profile
 > Clara is a Physical element Damage Dealer, utilizing Follow-up Attacks initiated as Counters to enemies attacking her or, with her ultimate active, her allies as her main source of damage. She is a good starter unit that struggles compared to some of the more powerful Damage Dealers late game, especially Yunli who is a direct upgrade. 
 ## 2. Teammates
@@ -196,3 +199,5 @@ Extra Strategies You Could Try
 Speed build for Hanya  
   
 0c merchant
+
+[^1]: 
