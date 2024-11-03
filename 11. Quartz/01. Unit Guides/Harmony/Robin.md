@@ -149,8 +149,6 @@ Some examples of damage dealers Robin works well with and their team, other than
 - Kafka: Eg: Kafka | Black Swan | Robin | Huohuo
 - DHIL: eg: DHIL | Robin | Ruan Mei / Sparkle | Gallagher
 
-**If you don't want to use a sustain character and are wondering what you could use, you should ask in <#1108990029365264444>.** 
-
 ## 10. Important Things to Note:
 *These are things we didn't think fit into other sections and/or don't a dedicated section of their own.*
 
@@ -158,7 +156,7 @@ Some examples of damage dealers Robin works well with and their team, other than
 
 - A unit needs 157.500 SPD to have 3 Turns total within Robin Ultimate with 1 Eagle proc, or 158.400 with one S5 DDD proc.
 
-# **Notable Eidolons:**
+## 11. **Notable Eidolons:**
 1. **Eidolon 1, Land of Smiles** During Robin's ultimate, all allies' all-type resistance penetration increases by 24%.
   ↑ This is an insane buff for a first eidolon, even greater than that of Ruan Mei, being a 24% to 40% increase in damage by itself (depending on enemy resistance). The caveat is that it's only active during her ultimate.
 2. **Eidolon 6, Moonless Midnight** The first 8 instances of Additional Damage from her ultimate will now deal 450% more Crit. DMG. 
@@ -166,7 +164,7 @@ Some examples of damage dealers Robin works well with and their team, other than
 3. **Eidolon 2, Afternoon Tea For Two** The talent's energy generation increases from 2 to 3 for every ally attack and increases all allies' SPD by 16% during the Ultimate's duration.
    ↑ This eidolon makes it very easy to have a permanent up-time on her ultimate in most if not all teams, even allowing her to use a ATK% Rope in FuA teams. Additionally, the 16% SPD buff can be useful in some situations.
 
-## 11. Build Examples
+## 12. Build Examples
 We will be giving you 3 examples of a good build.
 1. Using Robin's Signature 5★ Light Cone
 2. Using Bronya's Signature 5★ Light Cone
