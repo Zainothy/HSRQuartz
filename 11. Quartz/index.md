@@ -11,9 +11,10 @@ Welcome to the Village’s HSR Guides. Here you can access a catalogue of essent
 # Character Guides 
 
 ### **DPS:** 
-| File                                                       | Last Updated                 | Element  | Path        | Picture                              |
-| ---------------------------------------------------------- | ---------------------------- | -------- | ----------- | ------------------------------------ |
-| [[./01. Unit Guides/Destruction/Clara\|Clara]] | 10:45 AM - November 03, 2024 | Physical | Destruction | ![](https://i.imgur.com/mETG4q0.png) |
+| File                                                                                             | Last Updated                 | Element   | Path        | Picture                                                                                                                 |
+| ------------------------------------------------------------------------------------------------ | ---------------------------- | --------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[./01. Unit Guides/Destruction/Clara\|Clara]]                                       | 10:45 AM - November 03, 2024 | Physical  | Destruction | ![](https://i.imgur.com/mETG4q0.png)                                                                                    |
+| [[Dan Heng Imbibitor Lunae\|Dan Heng Imbibitor Lunae]] | 11:35 AM - November 03, 2024 | Imaginary | Destruction | ![](https://expertgamereviews.com/wp-content/uploads/2023/08/Honkai-Star-Rail-Imbibitor-Lunae-Splash-Art-1536x1536.png) |
 
 ### **Supports:**
 | File                                                   | Last Updated                 | Element  | Path    | Picture                                                                                                                                                                                                                                                                                                                            |
@@ -21,7 +22,7 @@ Welcome to the Village’s HSR Guides. Here you can access a catalogue of essent
 | [[./01. Unit Guides/Harmony/Robin\|Robin]] | 11:01 AM - November 03, 2024 | Physical | Harmony | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fhoukai-star-rail%2Fimages%2F9%2F92%2FCharacter_Robin_Splash_Art.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20240508021256&f=1&nofb=1&ipt=ad0c83724a7f49731ab724fc94eb4a0283e4ced21cb06302ad52334c14053a49&ipo=images) |
 
 
-**Sustain:**
+	### **Sustain:**
 | File | Last Updated | Element | Path | Picture |
 | ---- | ------------ | ------- | ---- | ------- |
 
