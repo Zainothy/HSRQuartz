@@ -10,20 +10,21 @@ Welcome to the Village’s HSR Guides. Here you can access a catalogue of essent
 
 # Character Guides 
 
-### **DPS:** 
+## **DPS:** 
 | File                                                                                             | Last Updated                 | Element   | Path        | Picture                                                                                                                 |
 | ------------------------------------------------------------------------------------------------ | ---------------------------- | --------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [[Dan Heng Imbibitor Lunae\|Dan Heng Imbibitor Lunae]] | 11:35 AM - November 03, 2024 | Imaginary | Destruction | ![](https://expertgamereviews.com/wp-content/uploads/2023/08/Honkai-Star-Rail-Imbibitor-Lunae-Splash-Art-1536x1536.png) |
 | [[./01. Unit Guides/Destruction/Clara\|Clara]]                                       | 10:45 AM - November 03, 2024 | Physical  | Destruction | ![](https://i.imgur.com/mETG4q0.png)                                                                                    |
+| [[./01. Unit Guides/Destruction/Dan Heng Imbibitor Lunae\|Dan Heng Imbibitor Lunae]] | 1:25 PM - November 03, 2024  | Imaginary | Destruction | ![](https://expertgamereviews.com/wp-content/uploads/2023/08/Honkai-Star-Rail-Imbibitor-Lunae-Splash-Art-1536x1536.png) |
 
-### **Supports:**
+## **Supports:**
 | File                                                   | Last Updated                 | Element  | Path    | Picture                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------ | ---------------------------- | -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[./01. Unit Guides/Harmony/Robin\|Robin]] | 11:01 AM - November 03, 2024 | Physical | Harmony | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fhoukai-star-rail%2Fimages%2F9%2F92%2FCharacter_Robin_Splash_Art.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20240508021256&f=1&nofb=1&ipt=ad0c83724a7f49731ab724fc94eb4a0283e4ced21cb06302ad52334c14053a49&ipo=images) |
 
 
-	### **Sustain:**
-| File | Last Updated | Element | Path | Picture |
-| ---- | ------------ | ------- | ---- | ------- |
+## **Sustain:**
+| File                                                                  | Last Updated                | Element   | Path         | Picture                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------- | --------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[./01. Unit Guides/Preservation/Aventurine\|Aventurine]] | 1:25 PM - November 03, 2024 | Imaginary | Preservation | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fact-upload.hoyoverse.com%2Fevent-ugc-hoyowiki%2F2024%2F02%2F06%2F23901508%2F314ba5caa6a606c2e5ac8a6fdec5d0d5_7949227915221858560.png&f=1&nofb=1&ipt=a441a7a98900ef90ab421d2a5b9cb5e554700b69a53eb889b3383c2180c5b5d0&ipo=images) |
 
 
