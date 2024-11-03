@@ -18,6 +18,7 @@ share: "true"
 splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fhoukai-star-rail%2Fimages%2F9%2F92%2FCharacter_Robin_Splash_Art.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20240508021256&f=1&nofb=1&ipt=ad0c83724a7f49731ab724fc94eb4a0283e4ced21cb06302ad52334c14053a49&ipo=images
 Element: Physical
 banner_lock: false
+Links: "false"
 ---
 **Base Stats:** HP = 1281        DEF = 485        ATK = 640        SPD = 102**
 ## 1. Stat Goals
@@ -174,15 +175,15 @@ We will be giving you 3 examples of a good build.
 - We'll also show an example of a build with almost 0 ATK sub-stats achieving 4000 ATK on Robin with her signature, simply having the right main stats and good 2-Pc set effects.
 - Notice how the relics don't change depending on the light cone.
 
-![[Build0.png|Build0.png]]
+![[../../Media/Build0.png|Build0.png]]
 
 
-![[Build1.png|Build1.png]]
+![[../../Media/Build1.png|Build1.png]]
 
-![[Build2.png|Build2.png]]
+![[../../Media/Build2.png|Build2.png]]
 
-![[Build3.png|Build3.png]]
+![[../../Media/Build3.png|Build3.png]]
 
 **Physical Sphere Robin:**
 
-![[Build4.png|Build4.png]]
+![[../../Media/Build4.png|Build4.png]]
