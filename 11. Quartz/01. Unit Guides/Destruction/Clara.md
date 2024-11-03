@@ -144,8 +144,10 @@ Clara’s Eidolon Investment:
 
 Clara’s eidolons aren’t too good and you can’t get them reliably as there aren’t any Clara banners. For these reasons, if you are looking to invest further into Clara and her team, it’s best to look for other ways of doing so.  
   
-In order of damage increase to the team’s damage, we present you a list of the best investment route to take for Clara’s team:  
-1. Robin If you don’t already have her, make sure to get her as she is2. Dance at Sunset, Yunli’s signature light cone. It is a great damage increase to Clara and greatly increases her consistency in gameplay. By itself, it’s about a 30% increase to damage, which can be higher the more you get out of its aggro value increase buff.  
+**In order of damage increase to the team’s damage, we present you a list of the best investment route to take for Clara’s team:**  
+![[../../Media/Pasted image 20241103021052.png|Pasted image 20241103021052.png]]
+1. Robin If you don’t already have her, make sure to get her as she is the best support for Clara. 
+2. Dance at Sunset, Yunli’s signature light cone. It is a great damage increase to Clara and greatly increases her consistency in gameplay. By itself, it’s about a 30% increase to damage, which can be higher the more you get out of its aggro value increase buff.  
 3. Robin’s Eidolon 1, increasing the entire team’s damage by 24% to 42% (depending on the enemy’s existing elemental RES to the element), granted her ultimate is always active.  
 4. Huohuo She can act as the sole battery for Clara and Robin, generating energy for both with her ultimate and using Quid Pro Quo for even more energy. She also increases the team’s damage by increasing Clara’s ATK as well as Robin’s, which also increases the ATK buff given during her ultimate. She doesn’t increase the team’s damage as much but is necessary before being able to replace Tingyun.  
 5. Sparkle With Huohuo on the team, Tingyun can be rather easily replaced as her main role in the team was that of a battery. Sparkle herself is a great upgrade from Tingyun, advancing forward Sparkle and giving her larger buffs, as well as having some of her buffs go to Robin, additionally increasing her damage. About a 23% team DMG Increase  
