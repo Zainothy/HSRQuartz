@@ -238,8 +238,8 @@ Link Rope - DEF
 |Eidolon 4|When the follow up attack fires, increase defence by 40% for 2 turns.and increases follow up attack hits by 3, almost always active. Doesn’t do much unless it's coupled with E6.|
 |Eidolon 5|Skill trace +2 levels  <br>Talent trace +2 levels  <br>Minor damage increase|
 |Eidolon 6|Every teammate that has a shield increases damage dealt by 50% per teammate max 150%. Basically this is permanent 150% damage dealt.  <br>Very strong buff that makes aven into a main dps and highest dps sustainer.|
-
-> [!warning] ## 9. RGM Relevancy  
+## 9. RGM Relevancy  
+> [!warning] Relevancy Weakness:
 Aventurine’s relevancy in the rotating game modes of HSRAventurine in apocalyptic shadow depends on if the enemy is imaginary weak. If the enemy isn't then it means nothing as apocalyptic shadow is break based. The enemy amount of attacks don't really affect Aven too much since as Aven is the only imaginary preservation. Ideally though the enemy would attack a lot to make many aventurine follow up attacks.  
   
 ## 10. Extra Things to Note  
