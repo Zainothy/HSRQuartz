@@ -148,7 +148,7 @@ Clara’s Eidolon Investment:
 Clara’s eidolons aren’t too good and you can’t get them reliably as there aren’t any Clara banners. For these reasons, if you are looking to invest further into Clara and her team, it’s best to look for other ways of doing so.  
   
 **In order of damage increase to the team’s damage, we present you a list of the best investment route to take for Clara’s team:**  
-![[../../Media/Pasted image 20241103021052.png|Pasted image 20241103021052.png]]
+![[../../Media/Investment Chart.png|Investment Chart.png]]
 1. Robin If you don’t already have her, make sure to get her as she is the best support for Clara. 
 2. Dance at Sunset, Yunli’s signature light cone. It is a great damage increase to Clara and greatly increases her consistency in gameplay. By itself, it’s about a 30% increase to damage, which can be higher the more you get out of its aggro value increase buff.  
 3. Robin’s Eidolon 1, increasing the entire team’s damage by 24% to 42% (depending on the enemy’s existing elemental RES to the element), granted her ultimate is always active.  
