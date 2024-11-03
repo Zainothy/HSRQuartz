@@ -96,3 +96,95 @@ Choose based on supports and domain efficiency. The IMG domain is very inefficie
 - **2p Space Sealing Station**  
 
 It's almost always a Rutilant **angle**.
+
+## 9. Energy Thresholds
+
+- **Ultimate:** 140 Energy Cost  
+- **Energy Gain upon Kill:** +10  
+- **Basic ATK "Beneficent Lotus":** 20 Energy (22.24 with S1 Stacks)  
+- **1BA "Transcendence":** 30 Energy (33.36 with S1 Stacks)  
+- **2BA "Divine Spear":** 35 Energy (38.92 with S1 Stacks)  
+- **3BA "Fulgurant Leap":** 40 Energy (44.48 with S1 Stacks)  
+- **ULT "Azure Aqua Ablutes All":** 5 Energy (5.56 with S1 Stacks)  
+
+- **Tingyun Ultimate:** 60 Energy  
+- **Huohuo Ultimate:** 28 Energy  
+- **DHIL's A4 Trace "Star Veil":** Gives him 15 energy at the start of battle  
+- At the start of battle, DHIL can ult after a 3BA + 1 hit or with Ruan Mei Cone + External Energy.  
+- **Examples of External Energy:**
+  - Enemy Hits  
+  - Fine Fruit / RM Signature and other similar effects  
+  - "Carve the Moon, Weave the Clouds" Light Cone buff  
+  - Energy from Huohuo and Tingyun  
+
+## 10. Teams (with notes)
+
+#### 1. Team Composition: DHIL, Robin, Sparkle, Huohuo
+- This is the "General" BiS.
+- With Robin, 4T Sparkle can be pushed, which combined with a 0 AV Ult allows IL to ult 3 times in the 2nd wave (7 possible 3BAs for E2).  
+
+#### 2. Team Composition: DHIL, Robin, Ruan Mei, Huohuo
+- The same concept as the first team, without 4T Sparkle.  
+- Usually used for brute-forcing RES like the Aventurine Boss.  
+- This team requires a lot of SP management and understanding of your DMG output.  
+- This team demands Effective 134 SPD IL on ATK boot.  
+- This team does not function without S1 Ruan Mei.  
+
+#### 3. Team Composition: DHIL, Robin, Tingyun, Huohuo
+- Same concept as the first two, just with Tingyun instead of Sparkle/Ruan Mei.  
+
+#### 4. Team Composition: DHIL, Sparkle, Ruan Mei, Huohuo
+- 3T setup Sparkle is still very strong, albeit worse than Robin.  
+
+#### 5. Team Composition: DHIL, Sparkle, Tingyun, Huohuo
+- Same concept as the one above, with Tingyun over Ruan Mei.  
+- It is much easier to achieve 3T Sparkle with Tingyun over Ruan Mei, but the damage is worse.  
+
+#### 6. Team Composition: DHIL, Tingyun, Ruan Mei, Huohuo
+- The original DHIL BiS pre-Sparkle and Robin release.  
+- Effective 134 SPD IL as well.  
+
+### Viable for Sustainless 3rd Slot
+
+#### 1. Team Composition: Robin, Ruan Mei, Sparkle, Tingyun
+- (Whoever is not already present)
+
+#### 2. Team Composition: Yukong, Pela, Bronya
+- (Wouldn't recommend)  
+- Yukong has uptime issues and SP issues to maximize said uptime (Amp isn’t the greatest either).  
+- Pela is fine and SP positive, but IL teams usually don’t stack enough DEF Shred to get the full benefit of her debuffs.  
+- Bronya’s amp is really strong, but SP will be rough, especially for E2 IL.  
+
+### Viable Sustains
+
+#### 1. Gallagher
+→ with QPQ equipped, he can mostly replicate what Huohuo does. 
+#### 2. SP positive sustains:
+	Aven is better than Luocha, but it is still much more recommended to use Huohuo or Gallagher 
+
+
+## 11. Eidolons:
+- **E1 "Tethered Sky":** Increases DHIL's ramping DMG% boost from 60% at max to 100% at max.
+  
+- **E2 "Imperium on Cloud Nine":** DHIL gets a 100% advance forward after using his Ultimate and increases the Squama Sacrosanta gained from Ult from 2-3.
+  
+- **E3 "Clothed in Clouds":** DHIL's Basic ATK level increases from 6 to 7. Fulgurant Leap's multiplier goes from 500% to 550%.
+  
+- **E4 "Zephyr's Bliss":** DHIL's ramping CDMG boost lasts until his next turn. This means as long as you keep using 3BA, every 3BA after the first one will have a permanent CDMG buff (48% CDMG).
+  
+- **E6 "Reign, Returned":** DHIL gets 20% RES PEN for his next Fulgurant Leap (3BA) for every ally ult cast, up to 60%. This turns the buffed 3BA into a nuke.
+
+## 12. Important Things to Note
+
+>[!tip] Energy: 
+>- Ideally, DHIL wants to 3BA every turn, but in MoC, you generally want to prepare for the 2nd wave. If you burst down the 1st wave without care, you may lack SP or Energy for the 2nd wave and lose valuable time setting up again. Instead, you can stall out the 1st wave for a bit longer by using NBA/1BA/2BA, which allows you to regenerate more SP and Energy for DHIL and his supports. Ensure the combination of Enhanced Basics adds up to another ult once you start to 3BA spam again in wave 2.
+>- Refer to the energy section for help on this matter.
+>- This is also why S1 is so good compared to other options.
+>>[!warning] 0AV Ult:
+>>- The 0 AV ult tech is viable on every team provided you can end wave 1 with Ult Up.
+ >> - **What is the 0 AV Ult?** The 0 AV ult is an E2 DHIL tech where you press DHIL's Ult immediately at the start of wave 2 if it is active. This doesn't affect any rotation at all; it's just more damage and more energy for DHIL.
+ >> - If you 0 AV ult and Sparkle starts her turn right after, she will still advance DHIL.
+ >> - With DHIL on Signature, Tingyun would need 2715 ATK to give him the max buff from her skill.
+  
+
+
