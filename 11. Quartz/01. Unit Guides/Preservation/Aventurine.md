@@ -6,6 +6,10 @@ tags:
   - Sustain
   - T0
   - Hybrid
+  - Harmony
+  - Robin
+  - Physical
+  - Support
 Element: Imaginary
 cssclasses:
   - center-images
@@ -22,22 +26,22 @@ share: "true"
 ## 2. Teammates  
 ### Support Characters:
 
-|         |                                                                                                                                                                              |                                                                                                                                                                            |                                                                                                                                                                                                                          |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Robin   | Provides Crit. DMG buffs, a huge ATK buff and DMG Bonus to all allies.  <br>  <br>Makes all allies immediately act when she uses ultimate.  <br>  <br>Provides some sub-dps. | Her Signature Light Cone or Bronya’s signature Light Cone if you have them.  <br>  <br>4000+ ATK  <br>ERR Link Rope  <br>120 SPD                                           | Aventurine’s Follow-up Attacks help generate energy for Robin, as well as proc-ing her additional damage often.  <br>  <br>Aventurine’s Follow-up Attacks make up the majority of his damage, which get buffed by Robin. |
-| Sparkle | Provides DMG Bonus and a small ATK buff to all allies.  <br>  <br>Huge Crit. DMG buff to one ally and 50% Action Forward.                                                    | 200%+ Crit. DMG  <br>  <br>Ideally 168 SPD, using S5 DDD and 4pc Eagle of Twilight Line set effect.  <br>  <br>If ideal isn’t achievable for you, aim for 160 SPD instead. | Sparkle helps Aventurine deal damage by giving him DMG Bonus.                                                                                                                                                            |
+|           |                                                                                                                                                                              |                                                                                                                                                                            |                                                                                                                                                                                                                          |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[../Harmony/Robin|Robin]] | Provides Crit. DMG buffs, a huge ATK buff and DMG Bonus to all allies.  <br>  <br>Makes all allies immediately act when she uses ultimate.  <br>  <br>Provides some sub-dps. | Her Signature Light Cone or Bronya’s signature Light Cone if you have them.  <br>  <br>4000+ ATK  <br>ERR Link Rope  <br>120 SPD                                           | Aventurine’s Follow-up Attacks help generate energy for Robin, as well as proc-ing her additional damage often.  <br>  <br>Aventurine’s Follow-up Attacks make up the majority of his damage, which get buffed by Robin. |
+| Sparkle   | Provides DMG Bonus and a small ATK buff to all allies.  <br>  <br>Huge Crit. DMG buff to one ally and 50% Action Forward.                                                    | 200%+ Crit. DMG  <br>  <br>Ideally 168 SPD, using S5 DDD and 4pc Eagle of Twilight Line set effect.  <br>  <br>If ideal isn’t achievable for you, aim for 160 SPD instead. | Sparkle helps Aventurine deal damage by giving him DMG Bonus.                                                                                                                                                            |
 
   
   
 ### Damage Dealers:
 
-|   |   |   |   |
-|---|---|---|---|
-|Character|Short Overview|Recommended Investment|What the characters actually do|
-|Acheron|DPS which gains ult stacks when enemies get debuffed.|Really wants signature Light Cone.  <br>  <br>100% Crit. RATE after set bonuses like 4pc Pioneer and 2pc Izumo.  <br>150%+ Crit. DMG  <br>ATK Boots|Acheron damage mainly comes from her ultimate.  <br>  <br>Aventurine has the ability to stack it up quickly using his signature Light Cone or Trend of The Universal Market (unless you’re using Jiaoqiu).  <br>  <br>He provides more stacks for Acheron than other sustainers while doing decent damage and increasing Acheron DMG slightly with ult.|
-|Feixiao|DPS that gains ult stacks every time an ally attacks. Follow-up Attacks|No eidolon/signature investment needed, although welcome.  <br>  <br>95%+ Crit. RATE  <br>140%+ Crit. DMG  <br>SPD Boots|Feixiao wants allies to initiate as many attacks as possible.  <br>  <br>The only sustainer that even comes close at stack generation is Gallagher but Aventurine still beats him by a decent amount at that, while additionally dealing decent damage himself.  <br>  <br>Aventurine also fits well into the best Feixiao team compositions as he can help units like Topaz and Robin deal more damage through his usage of FuAs.|
-|Dr. Ratio|DPS that gains stacks for his Talent. through the number of debuffs placed on the enemy.|85% Crit. RATE  <br>150%+ Crit. DMG  <br>ATK Boots with Tingyun  <br>SPD Boots with Topaz and Robin.|Dr ratio requires 3 debuffs to consistently initiate a Follow-up Attack every time you use his skill. Aventurine can provide one with his ultimate (and another one with his FuA using his signature) whilst dealing damage, unlike Gallagher.  <br>  <br>Aventurine also fits well in a full follow up attack Ratio team, with Topaz and Robin.|
-|Yanqing|Loses massive buffs if hit. Requires a shielder to not lose said buffs.|40-50% Crit. RATE  <br>200% Crit. DMG  <br>ATK Boots|If Yanqing is hit he loses massive self applied buffs and a chance to initiate Follow-up Attacks.  <br>For that, Aventurine is the best as his immense shields easily prevent Yanqing from losing those buffs.  <br>  <br>Aven provides nice buffs and a secondary source of damage.|
+|           |                                                                                          |                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Character | Short Overview                                                                           | Recommended Investment                                                                                                                              | What the characters actually do                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Acheron   | DPS which gains ult stacks when enemies get debuffed.                                    | Really wants signature Light Cone.  <br>  <br>100% Crit. RATE after set bonuses like 4pc Pioneer and 2pc Izumo.  <br>150%+ Crit. DMG  <br>ATK Boots | Acheron damage mainly comes from her ultimate.  <br>  <br>Aventurine has the ability to stack it up quickly using his signature Light Cone or Trend of The Universal Market (unless you’re using Jiaoqiu).  <br>  <br>He provides more stacks for Acheron than other sustainers while doing decent damage and increasing Acheron DMG slightly with ult.                                                                            |
+| Feixiao   | DPS that gains ult stacks every time an ally attacks. Follow-up Attacks                  | No eidolon/signature investment needed, although welcome.  <br>  <br>95%+ Crit. RATE  <br>140%+ Crit. DMG  <br>SPD Boots                            | Feixiao wants allies to initiate as many attacks as possible.  <br>  <br>The only sustainer that even comes close at stack generation is Gallagher but Aventurine still beats him by a decent amount at that, while additionally dealing decent damage himself.  <br>  <br>Aventurine also fits well into the best Feixiao team compositions as he can help units like Topaz and Robin deal more damage through his usage of FuAs. |
+| Dr. Ratio | DPS that gains stacks for his Talent. through the number of debuffs placed on the enemy. | 85% Crit. RATE  <br>150%+ Crit. DMG  <br>ATK Boots with Tingyun  <br>SPD Boots with Topaz and Robin.                                                | Dr ratio requires 3 debuffs to consistently initiate a Follow-up Attack every time you use his skill. Aventurine can provide one with his ultimate (and another one with his FuA using his signature) whilst dealing damage, unlike Gallagher.  <br>  <br>Aventurine also fits well in a full follow up attack Ratio team, with Topaz and Robin.                                                                                   |
+| Yanqing   | Loses massive buffs if hit. Requires a shielder to not lose said buffs.                  | 40-50% Crit. RATE  <br>200% Crit. DMG  <br>ATK Boots                                                                                                | If Yanqing is hit he loses massive self applied buffs and a chance to initiate Follow-up Attacks.  <br>For that, Aventurine is the best as his immense shields easily prevent Yanqing from losing those buffs.  <br>  <br>Aven provides nice buffs and a secondary source of damage.                                                                                                                                               |
 
   
 ### Sub-DPS:
@@ -82,9 +86,9 @@ share: "true"
   
 ### Yanqing Hypercarry Team:
 
-|   |   |   |   |
-|---|---|---|---|
-|Yanqing|Robin|Tingyun|Aventurine|
+|         |       |         |            |
+| ------- | ----- | ------- | ---------- |
+| Yanqing | Robin | Tingyun | Aventurine |
 
 >[!tip] Team Setup & Explanation:
 >Aventurine will be shielding Yanqing, thus preventing him from losing his talent’s ‘Soulsteel Sync’.  
@@ -238,8 +242,8 @@ Link Rope - DEF
 |Eidolon 4|When the follow up attack fires, increase defence by 40% for 2 turns.and increases follow up attack hits by 3, almost always active. Doesn’t do much unless it's coupled with E6.|
 |Eidolon 5|Skill trace +2 levels  <br>Talent trace +2 levels  <br>Minor damage increase|
 |Eidolon 6|Every teammate that has a shield increases damage dealt by 50% per teammate max 150%. Basically this is permanent 150% damage dealt.  <br>Very strong buff that makes aven into a main dps and highest dps sustainer.|
-## 9. RGM Relevancy  
-> [!warning] Relevancy Weakness:
+
+> [!warning] ## 9. RGM Relevancy  
 Aventurine’s relevancy in the rotating game modes of HSRAventurine in apocalyptic shadow depends on if the enemy is imaginary weak. If the enemy isn't then it means nothing as apocalyptic shadow is break based. The enemy amount of attacks don't really affect Aven too much since as Aven is the only imaginary preservation. Ideally though the enemy would attack a lot to make many aventurine follow up attacks.  
   
 ## 10. Extra Things to Note  

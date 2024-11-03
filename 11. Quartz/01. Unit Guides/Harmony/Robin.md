@@ -132,10 +132,10 @@ Teams that have high attack frequency (please refer to section 9 of the guide fo
 >**However, she especially excels in teams containing FuA characters**, with their __high attack frequency__. Her buffs are slightly catered to them and they allow her to make full use of her kit by providing her energy and proc-ing her Ultimate's additional damage often.
 
 **Examples of such teams:**
-- Feixiao | Topaz | Robin | Aventurine 
-- Jade | March 7th | Robin | Aven
-- Dr. Ratio | Moze | Robin | Aven
-- Blade | Jade | Robin | Aven
+- Feixiao | Topaz | Robin | [[../Preservation/Aventurine|Aventurine]] 
+- Jade | March 7th | Robin | [[../Preservation/Aventurine|Aven]]
+- Dr. Ratio | Moze | Robin | [[../Preservation/Aventurine|Aven]]
+- Blade | Jade | Robin | [[../Preservation/Aventurine|Aven]]
 - Herta | Himeko | Robin | Huohuo
 
 - Aventurine can be replaced by Lingsha or any character that is able to use Quid Pro Quo.
