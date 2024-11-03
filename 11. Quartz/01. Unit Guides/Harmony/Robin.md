@@ -175,8 +175,14 @@ We will be giving you 3 examples of a good build.
 - Notice how the relics don't change depending on the light cone.
 
 ![[../../Media/Build0.png|Build0.png]]
+
+
 ![[../../Media/Build1.png|Build1.png]]
+
 ![[../../Media/Build2.png|Build2.png]]
+
 ![[../../Media/Build3.png|Build3.png]]
+
 **Physical Sphere Robin:**
+
 ![[../../Media/Build4.png|Build4.png]]
