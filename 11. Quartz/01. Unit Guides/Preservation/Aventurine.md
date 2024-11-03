@@ -6,10 +6,6 @@ tags:
   - Sustain
   - T0
   - Hybrid
-  - Harmony
-  - Robin
-  - Physical
-  - Support
 Element: Imaginary
 cssclasses:
   - center-images
@@ -242,9 +238,9 @@ Link Rope - DEF
 |Eidolon 4|When the follow up attack fires, increase defence by 40% for 2 turns.and increases follow up attack hits by 3, almost always active. Doesn’t do much unless it's coupled with E6.|
 |Eidolon 5|Skill trace +2 levels  <br>Talent trace +2 levels  <br>Minor damage increase|
 |Eidolon 6|Every teammate that has a shield increases damage dealt by 50% per teammate max 150%. Basically this is permanent 150% damage dealt.  <br>Very strong buff that makes aven into a main dps and highest dps sustainer.|
-
-> [!warning] ## 9. RGM Relevancy  
-Aventurine’s relevancy in the rotating game modes of HSRAventurine in apocalyptic shadow depends on if the enemy is imaginary weak. If the enemy isn't then it means nothing as apocalyptic shadow is break based. The enemy amount of attacks don't really affect Aven too much since as Aven is the only imaginary preservation. Ideally though the enemy would attack a lot to make many aventurine follow up attacks.  
+## 9. RGM Relevancy  
+> [!warning] Future Proof?
+> Aventurine in apocalyptic shadow depends on if the enemy is imaginary weak. If the enemy isn't then it means nothing as apocalyptic shadow is break based. The enemy amount of attacks don't really affect Aven too much since as Aven is the only imaginary preservation. Ideally though the enemy would attack a lot to make many aventurine follow up attacks.
   
 ## 10. Extra Things to Note  
 Enemy Match-ups Aventurine deals damage based on gaining stacks when his shields get hit and to abuse this to the maximum extent enemies that hit him alot. Enemies such as Hoolay do very well for aventurine and ideally also imaginary weak will provide aventurine the best chance at dealing damage. Aventurines worst matchup will be enemies that don't hit him at all such as enemies that do dot damage. This doesn't mean that aventurine wont sustain or have all the other benefits that he provides its that his sub dps strength will be greatly diminished.
