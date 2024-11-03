@@ -13,7 +13,7 @@ Welcome to the Village’s HSR Guides. Here you can access a catalogue of essent
 ### **DPS:** 
 | File                                                       | Last Updated                 | Element  | Path        | Picture                              |
 | ---------------------------------------------------------- | ---------------------------- | -------- | ----------- | ------------------------------------ |
-| [[./01. Unit Guides/Destruction/Clara\|Clara]] | 10:25 AM - November 03, 2024 | Physical | Destruction | ![](https://i.imgur.com/mETG4q0.png) |
+| [[./01. Unit Guides/Destruction/Clara\|Clara]] | 10:45 AM - November 03, 2024 | Physical | Destruction | ![](https://i.imgur.com/mETG4q0.png) |
 
 ### **Supports:**
 | File                                                   | Last Updated                | Element  | Path    | Picture                                                                                                                                                                                                                                                                                                                            |
