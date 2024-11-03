@@ -7,12 +7,7 @@ tags:
   - Destruction
   - "#DPS"
   - DPS
-cssclasses:
-  - center-titles
-  - center-images
-  - wide-page
-  - no-embed-border
-  - image-borders
+cssclasses: []
 splash_art: https://i.imgur.com/mETG4q0.png
 links: "true"
 ---
