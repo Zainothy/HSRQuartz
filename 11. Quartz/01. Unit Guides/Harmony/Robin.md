@@ -10,6 +10,9 @@ tags:
 cssclasses:
   - center-titles
   - center-images
+  - no-embed-border
+  - image-borders
+  - wide-page
 Credit: Lucian
 share: "true"
 splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fhoukai-star-rail%2Fimages%2F9%2F92%2FCharacter_Robin_Splash_Art.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20240508021256&f=1&nofb=1&ipt=ad0c83724a7f49731ab724fc94eb4a0283e4ced21cb06302ad52334c14053a49&ipo=images
