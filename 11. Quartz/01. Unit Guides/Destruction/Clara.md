@@ -13,7 +13,6 @@ cssclasses:
   - center-titles
   - wide-page
 splash_art: https://i.imgur.com/mETG4q0.png
-links: "false"
 ---
 ## 1. Character Overview
 > [!context] Profile
