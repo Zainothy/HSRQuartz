@@ -19,6 +19,7 @@ splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.w
 Element: Physical
 banner_lock: false
 links: "false"
+Last_Updated: 2024-11-01
 ---
 **Base Stats:** HP = 1281        DEF = 485        ATK = 640        SPD = 102**
 ## 1. Stat Goals
