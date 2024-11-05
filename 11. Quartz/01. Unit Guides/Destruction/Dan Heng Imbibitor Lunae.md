@@ -14,6 +14,7 @@ tags:
 Element: Imaginary
 splash_art: https://expertgamereviews.com/wp-content/uploads/2023/08/Honkai-Star-Rail-Imbibitor-Lunae-Splash-Art-1536x1536.png
 share: "true"
+Last_Updated: 2024-11-03
 ---
 ## 1. Base Stats
 

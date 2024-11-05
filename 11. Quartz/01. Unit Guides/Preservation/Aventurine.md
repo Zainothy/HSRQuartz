@@ -14,6 +14,7 @@ cssclasses:
   - wide-page
 splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fact-upload.hoyoverse.com%2Fevent-ugc-hoyowiki%2F2024%2F02%2F06%2F23901508%2F314ba5caa6a606c2e5ac8a6fdec5d0d5_7949227915221858560.png&f=1&nofb=1&ipt=a441a7a98900ef90ab421d2a5b9cb5e554700b69a53eb889b3383c2180c5b5d0&ipo=images
 share: "true"
+Last_Updated: 2024-11-03
 ---
 ## 1. Short Character Overview: 
 >[!context] Overview:
