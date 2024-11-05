@@ -15,7 +15,7 @@ cssclasses:
   - wide-page
 Credit: Lucian
 share: "true"
-splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fhoukai-star-rail%2Fimages%2F9%2F92%2FCharacter_Robin_Splash_Art.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20240508021256&f=1&nofb=1&ipt=ad0c83724a7f49731ab724fc94eb4a0283e4ced21cb06302ad52334c14053a49&ipo=images
+splash_art: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1479143e-5bf4-48e2-91a6-d85476d8288a/dhf22gr-db6ac5a8-9c4b-48b4-aff6-10cf471a0bc4.png/v1/fill/w_500,h_500/_render_fix__robin_by_akejiz_dhf22gr-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvMTQ3OTE0M2UtNWJmNC00OGUyLTkxYTYtZDg1NDc2ZDgyODhhXC9kaGYyMmdyLWRiNmFjNWE4LTljNGItNDhiNC1hZmY2LTEwY2Y0NzFhMGJjNC5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FeRsjp5ym3mA5ZjwjbGPxFg_71LM5K_IpA878kcZrkw
 Element: Physical
 banner_lock: false
 links: "false"
