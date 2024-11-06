@@ -98,7 +98,7 @@ Gives allies of the same element type as the wearer 12% to 24% dmg bonus buff pe
 **Note:** Set effects are not really necessary on sparkle for relics 
 
 - **Eagle of Twilight Line**: 24% Advance to wearer on ultimate (The 4-piece set effect specifically). This is extremely useful for 0c AND normal runs but we don't expect you to run this set as it can be inefficient to farm.
-- **Sacredos’ Relived Ordeal (4 Piece):** Useful for Sparkle because of her single target skill. When fully stacked: provides 36% Crit DMG to your DPS. Good general purpose set for DPS amp, but doesn’t provide much for Sparkle, apart from a speed stat stick. 
+- **Sacredos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
 	- Increases Speed by 6%
 	- When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turn(s). This effect can stack up to **2** time(s).
 TLDR: Eagle is best when trying to achieve specific speed tuning breakpoints, 3 turn Sparkle for example. Sacredos is the best general purpose set, providing a Speed stat stick and good damage amp. 
