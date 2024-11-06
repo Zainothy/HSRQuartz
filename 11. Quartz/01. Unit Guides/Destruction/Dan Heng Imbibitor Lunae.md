@@ -33,9 +33,9 @@ Last_Updated: 2024-11-03
 
 ## 3. Light Cones
 
-- Brighter than the Sun  
-- On the Fall of an Aeon  
-- The Moles Welcome You  
+### 1. Brighter than the Sun  
+### 2. On the Fall of an Aeon  
+### 3.The Moles Welcome You  
 
 ## 4. Main Stats
 
