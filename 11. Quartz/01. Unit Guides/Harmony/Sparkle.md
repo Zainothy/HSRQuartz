@@ -40,9 +40,9 @@ Last_Updated: 2024-11-06
 #### With DEF main stat sphere:
 
 **3500+ HP**, **1500+ DEF**
+- If you're using a 5★ Light Cone, then aim for **4000+ HP** and **1700+ DEF** instead.
 
 ### **Notes:**
-- If you're using a 5★ Light Cone, then aim for **4000+ HP** and **1700+ DEF** instead.
 - 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]** and check out character's decimal speed [here](Https://enka.network)
 
 - If you have any teammates that **permanently** buff speed (like Ruan Mei), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
