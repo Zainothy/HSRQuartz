@@ -26,29 +26,27 @@ Last_Updated: 2024-11-06
   
 
 ## **1. Stat Goals:**
-
-
 - 200+ Crit. DMG
 
 - **153.9 Speed** `OR` **138.5 SPD** `OR` **169.3 SPD** 
 
 - If you have her signature light cone, aim for 250+ Crit. DMG.
   
-### With HP main stat sphere:
+#### With HP main stat sphere:
 
 **4400 HP, 1100 DEF** 
 - If you're using a 5★ Light Cone, then aim for **5000+ HP** and **1200+ DEF** instead.
 
-### With DEF main stat sphere:
+#### With DEF main stat sphere:
 
 **3500+ HP**, **1500+ DEF**
 
 ### **Notes:**
 - If you're using a 5★ Light Cone, then aim for **4000+ HP** and **1700+ DEF** instead.
-- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[here](https://discord.com/channels/1108987403345084529/1108990029365264444/1224073130100785212)** and check out character's decimal speed [here](enka.network)
+- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]** and check out character's decimal speed [here](Https://enka.network)
 
 - If you have any teammates that **permanently** buff speed (like Ruan Mei), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
-	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints|the relevant breakpoints]]. 
+	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints|the relevant breakpoints]]
 
 ## 2. Trace Priority: 
 Skill>Ultimate>Talent 
@@ -76,45 +74,48 @@ Gives the ally Sparkle uses her skill on 32% damage bonus buff for 1 turn.
 ### 5. **Planetary Rendezvous** (Gacha 4★ Light Cone)
 
 Gives allies of the same element type as the wearer 12% to 24% dmg bonus buff permanently. Only use with a quantum element damage dealer. 
-## 4. Relic & Planar Ornament Main Stats: 
+## 4. Sub Stats Priority & Main Stats: 
 
-
+### Main Stats:
 **Feet (Boots)**: SPD
 
 **Sphere**: HP% = DEF%
 
 **Link Rope**: Energy Regeneration Rate% (ERR)
 
-## 5. Subsidiary Stats Priority
+### Subsidiary Stats Priority
 1. **Speed:** Until desired break point.
 
-2. **Crit. DMG%:** As much as possible 
+2. **Crit. DMG%:** As much as possible
 
-3. **Effect Resistance%** 
+3. **HP%/DEF%** 
 
-4. **HP%/DEF%**
-## 6. Relics and Planars
-### **Relic Sets:** 
-**Note:** Set effects are not really necessary on sparkle for relics 
+4. **Effect resistance**
+
+## 6. Relics Sets and Planar Ornament Sets
+### **Relic Sets:**  
 
 - **Eagle of Twilight Line**: 24% Advance to wearer on ultimate (The 4-piece set effect specifically). This is extremely useful for 0c AND normal runs but we don't expect you to run this set as it can be inefficient to farm.
+
 - **Sacredos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
 	- Increases Speed by 6%
 	- When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turn(s). This effect can stack up to **2** time(s).
+	- 
 TLDR: Eagle is best when trying to achieve specific speed tuning breakpoints, 3 turn Sparkle for example. Sacredos is the best general purpose set, providing a Speed stat stick and good damage amp. 
 ### **Planar Ornament Set:**
 The difference isn't too significant.
 
-1. **Lushaka, the Sunken Seas**: Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%. Best set for pure amp, however Vonwaq or Forge may be wanted for specific breakpoints. 
-2. **Broken Keel** Provides 10% Crit DMG buff for all teammates. Best for teams with a crit scaling damage dealer. Make sure to get effect resistance substats to proc its effect.
+1. **Lushaka, the Sunken Seas**: Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%. Best set for pure amp, however Vonwaq or Forge may be wanted for specific breakpoints.
 
-3. **Fleet of the Ageless** Provides 12% ATK buff to all teammates. Best for DoT teams.
+3. **Broken Keel** Provides 10% Crit DMG buff for all teammates. Best for teams with a crit scaling damage dealer. Make sure to get effect resistance substats to proc its effect.
 
-4. **Sprightly Vonwacq** Advances Sparkle's action forward by 40% at the start of battle. Action forward is useful but can be a bad set to use if you have other allies that need their turn to come up before the damage dealer's to give their buffs (like Tingyun), unless you also increase those supports' speed.
+4. **Fleet of the Ageless** Provides 12% ATK buff to all teammates. Best for DoT teams.
 
-5. **Penacony, Land of the Dreams** Provides 10% DMG bonus buff to all other allies of the same element as the wearer. Only use with a quantum element damage dealer.
+5. **Sprightly Vonwacq** Advances Sparkle's action forward by 40% at the start of battle. Action forward is useful but can be a bad set to use if you have other allies that need their turn to come up before the damage dealer's to give their buffs (like Tingyun), unless you also increase those supports' speed.
 
-6. **Forge of the Kalpagni Lantern** Just a 6% speed buff.
+6. **Penacony, Land of the Dreams** Provides 10% DMG bonus buff to all other allies of the same element as the wearer. Only use with a quantum element damage dealer.
+
+7. **Forge of the Kalpagni Lantern** Just a 6% speed buff.
 ## 8. Energy & Rotations
 >[!info]+ 8. Energy & Rotations
 >- **Normal rotation:** Skill every turn, Do not use basic attack.
