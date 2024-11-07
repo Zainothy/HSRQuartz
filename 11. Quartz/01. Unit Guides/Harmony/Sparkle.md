@@ -158,7 +158,7 @@ The difference isn't too significant.
 **Memory of Chaos, Pure Fiction and Apocalyptic Shadow**
 
 
->[!warning] ### RGM Notes: 
+>[!warning] RGM Notes: 
 > All Harmony path characters' relevancy in end-game content will depend on the teams they can effectively fit in. A lot more often than not, the teams they can fit in include teams for all 3 game modes. This is another reason as to why their value for an account is so high.
 
 ## 12. Relevant Teams for Sparkle: 
