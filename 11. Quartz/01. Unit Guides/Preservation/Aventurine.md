@@ -6,10 +6,6 @@ tags:
   - Sustain
   - T0
   - Hybrid
-  - Harmony
-  - Robin
-  - Physical
-  - Support
 Element: Imaginary
 cssclasses:
   - center-images
