@@ -41,7 +41,7 @@ Sparkle is a Crit damage scaling Harmony advancer, she provides strong Crit DMG 
 
 ## 2. How to Play 
 ### Skill Points
->[!tip] SP Economu: 
+>[!tip] SP Economy: 
 >Sparkle's Ultimate regenerates enough skill points so that Sparkle can be skill point positive over a 3 turn rotation. Because of that, you pretty much just want to use it whenever you get it.
 Make sure to use Sparkle's Ultimate before you use Sparkle's Skill if you get Sparkle's Ultimate right before Sparkle's turn or during it, so that you don't waste the skill's Energy Generation.
 ### Action Forward 
@@ -200,8 +200,6 @@ The difference isn't too significant.
 3. **Eidolon 1** The Cipher effect given by the ultimate lasts for 1 more turn and all allies with the effect have their ATK increased by 40%. A pretty nice buff.
 
 4. **Eidolon 4** The ultimate recovers 1 more skill point and the upper cap of skill points also increases by 1. Only useful for super skill point-intensive teams.
-
-
 
 
 [^1]: **Hypercarry:** A team where every member is designed to support the DPS, for example: Yunli, Sparkle, Robin and Tingyun is a hypercarrry. With every teammate having the purpose of providing for the DPS.  
