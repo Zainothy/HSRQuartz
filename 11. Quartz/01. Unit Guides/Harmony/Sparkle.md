@@ -20,35 +20,59 @@ banner_lock: false
 links: "false"
 Last_Updated: 2024-11-06
 ---
-> [!info]- Character Base Stats (Level 80):
+## 1. Short Overview: 
+
+> [!context] Sparkle: 
+> **Base Stats:**
 > HP = 1397        DEF = 485        ATK = 524        SPD = 101**
+> 
 
-  
+### **Info:**
+Sparkle is a Crit damage scaling Harmony advancer, she provides strong Crit DMG and DMG% buffs to her team, along with being completely SP neutral. She is best utilised in hypercarry team compositions [^1]. 
+>[!tip] Kit TLDR: 
+>- **Skill:** Increases Crit DMG of an ally by 24% of hers + 45% for 1 turn. Advances forward chosen ally by 50%
+>- **Talent:** Increases number of Skill points by two, all allies DMG% increases by 6% for every SP used. Stacks three times
+>- **Ultimate:** Recovers 4 skill points, provides Cipher: which increases each stack of Sparkles Talent by 10%. Meaning that when fully stacked with Cipher, the team can gain up to48% damage boost.
+>- **Technique:** Allies provided with ‘misdirect’ for 20 secs: all allies cannot be spotted by enemies, 3 SP recovered on battle start. 
+>- **Traces:** 
+>	A2: Basic attack regens same amount of energy as skill, 
+>	A4: duration for skill buff increased by 1 turn
+>	A6: 15% ATK, for every 1/2/3 quantum type allies damage increases by 5/15/30%
 
-## **1. Stat Goals:**
-- 200+ Crit. DMG
+## 2. How to Play 
+### Skill Points
+>[!tip] SP Economu: 
+>Sparkle's Ultimate regenerates enough skill points so that Sparkle can be skill point positive over a 3 turn rotation. Because of that, you pretty much just want to use it whenever you get it.
+Make sure to use Sparkle's Ultimate before you use Sparkle's Skill if you get Sparkle's Ultimate right before Sparkle's turn or during it, so that you don't waste the skill's Energy Generation.
+### Action Forward 
+Now, for characters that can Advance Forward other units' action/turn like Sparkle can, what you will want to know and watch out for is:
+When it is best to use the AF ability
+What ally to target with the ability
+What SPD to build on your Action Advancer (in this case Sparkle) and Damage Dealer, to most efficiently make use of their AF amount.
 
-- **153.9 Speed** `OR` **138.5 SPD** `OR` **169.3 SPD** 
+Sparkle's AF comes from her Skill, so it's always best to just use it whenever it's Sparkle's turn as her basic attack doesn't do much of anything.
 
-- If you have her signature light cone, aim for 250+ Crit. DMG.
-  
-#### With HP main stat sphere:
+The ally you will want to target will 99.99% of the time be your Damage Dealer. Those 0.01% of cases include times when:
+Enemies are somewhat low HP, but not low enough to kill them without Robin's ultimate being active and Sparkle's turn is up, you would want to use Sparkle's skill on Robin to have use her Ultimate and end the battle quicker, potentially saving a cycle.
 
-**4400 HP, 1100 DEF** 
-- If you're using a 5★ Light Cone, then aim for **5000+ HP** and **1200+ DEF** instead.
+The Speed you will want to build on your Sparkle will basically be that of the highest speed break point you can achieve, as Sparkle's Action Forward amount is only 50%. Compared to a unit with 100% Action Forward or immediate action, you are wasting AV waiting for the Damage dealer to act first before Sparkle can AF them; on top of having that first turn NOT buffed by Sparkle. 
+For most people, 160 SPD will be somewhat achievable and is a good speed break point to aim for.
+However, if you have a Superimposition 5 Dance! Dance! Dance! light cone, for just 8 more SPD than that at 168 SPD on the 4-Pc Eagle of Twilight Line set you can effectively achieve the 200 SPD break point, with 3 turns in the first cycle and 2 turns every cycle afterwards. For reference 134 SPD is only 2 turns in the first cycle, with every cycle afterward besides 1 having her only get 1 turn each. View speed information[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]
+## 3. RGM Relevancy:
+**Memory of Chaos, Pure Fiction and Apocalyptic Shadow**
 
-#### With DEF main stat sphere:
 
-**3500+ HP**, **1500+ DEF**
-- If you're using a 5★ Light Cone, then aim for **4000+ HP** and **1700+ DEF** instead.
+>[!warning] RGM Notes: 
+> All Harmony path characters' relevancy in end-game content will depend on the teams they can effectively fit in. A lot more often than not, the teams they can fit in include teams for all 3 game modes. This is another reason as to why their value for an account is so high.
 
-### **Notes:**
-- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]** and check out character's decimal speed [here](Https://enka.network)
-
-- If you have any teammates that **permanently** buff speed (like Ruan Mei), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
-	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints|the relevant breakpoints]]
-
-## 2. Trace Priority: 
+## 4. Team Compositions & Synergies: 
+>[!tip] Where to use? 
+>Sparkle works best when your damage dealer doesn't want to build any speed and are able to fully make use of her buffs.
+That is because the ideal way you speed tune most teams with Sparkle is by having her act as the damage dealer's speed, bringing her up to her action value.
+> - She also works really well in teams that are rather skill point intensive, as she herself is over-all skill point positive in her rotation.
+	
+**Sparkle is most commonly used along:** Seele, Acheron, Argenti, Jing Yuan, Clara, Yunli and Dan Heng • Imbibitor Lunae. She can also be used with Blade and Dr. Ratio, though worse than using a Bronya for Blade or a Tingyun for Dr. Ratio.
+## 5. Trace Priority: 
 Skill>Ultimate>Talent 
 
 **All ascension passive abilities are important and must be unlocked.**
@@ -56,8 +80,7 @@ Skill>Ultimate>Talent
 - Unlock stat bonus traces as you see fit.
 
 - Don't level up the basic attack.
-
-## 3. Light Cone Rankings 
+## 6. Light Cone Rankings 
 ### 1. **Earthly Escapade** (Sparkle's Signature 5★ Light Cone)
 
 Increases the wearer's Crit. DMG by 32% and at the start of battle as well as for every 4 skill points the wearer recovers, all allies' Crit. Rate and Crit. DMG gets increased by 10% and 28% respectively, for 4 turns.
@@ -74,16 +97,17 @@ Gives the ally Sparkle uses her skill on 32% damage bonus buff for 1 turn.
 ### 5. **Planetary Rendezvous** (Gacha 4★ Light Cone)
 
 Gives allies of the same element type as the wearer 12% to 24% dmg bonus buff permanently. Only use with a quantum element damage dealer. 
-## 4. Sub Stats Priority & Main Stats: 
+ 
+## 7. **Relics Main and Subsidiary Stats:**
 
-### Main Stats:
+#### Main Stats:
 **Feet (Boots)**: SPD
 
 **Sphere**: HP% = DEF%
 
 **Link Rope**: Energy Regeneration Rate% (ERR)
 
-### Subsidiary Stats Priority
+#### Subsidiary Stats Priority
 1. **Speed:** Until desired break point.
 
 2. **Crit. DMG%:** As much as possible
@@ -91,8 +115,7 @@ Gives allies of the same element type as the wearer 12% to 24% dmg bonus buff pe
 3. **HP%/DEF%** 
 
 4. **Effect resistance**
-
-## 6. Relics Sets and Planar Ornament Sets
+## 8. Relics Sets and Planar Ornament Sets
 ### **Relic Sets:**  
 
 - **Eagle of Twilight Line**: 24% Advance to wearer on ultimate (The 4-piece set effect specifically). This is extremely useful for 0c AND normal runs but we don't expect you to run this set as it can be inefficient to farm.
@@ -116,11 +139,34 @@ The difference isn't too significant.
 6. **Penacony, Land of the Dreams** Provides 10% DMG bonus buff to all other allies of the same element as the wearer. Only use with a quantum element damage dealer.
 
 7. **Forge of the Kalpagni Lantern** Just a 6% speed buff.
-## 8. Energy & Rotations
->[!info]+ 8. Energy & Rotations
->- **Normal rotation:** Skill every turn, Do not use basic attack.
-> - **For Sparkle to use her ultimate once every 3 turns** she has to have ERR (Energy Regeneration Rate) main stat link rope. That's all she has to have.
-## 9. Speed Tuning:
+
+## **9. Stat Goals:**
+- 200+ Crit. DMG
+
+- **153.9 Speed** `OR` **138.5 SPD** `OR` **169.3 SPD** 
+
+- If you have her signature light cone, aim for 250+ Crit. DMG.
+  
+### With HP main stat sphere:
+
+**4400 HP, 1100 DEF** 
+- If you're using a 5★ Light Cone, then aim for **5000+ HP** and **1200+ DEF** instead.
+
+###  With DEF main stat sphere:
+
+**3500+ HP**, **1500+ DEF**
+- If you're using a 5★ Light Cone, then aim for **4000+ HP** and **1700+ DEF** instead.
+
+### **Notes:**
+- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]** and check out character's decimal speed [here](Https://enka.network)
+
+- If you have any teammates that **permanently** buff speed (like Ruan Mei), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
+	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints|the relevant breakpoints]]
+
+
+
+
+## 10. Speed Tuning:
 
 **Here are some breakpoints for effective 200 SPD (3 Turn) Sparkle:**
 *If not listed here consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints| Relevant breakpoint list]]*. If still not listed, calculation required. 
@@ -145,7 +191,7 @@ The difference isn't too significant.
 
 - **157**: with 2 Eagle procs and Ruan Mei
 
-## 10. Eidolons Run Down: 
+## 11. Eidolons Run Down: 
 
 1. **Eidolon 2** Every stack of the talent now additionally allows allies to ignore 8% of the enemy's defense when attacking, up to 3 times. 24% defense shred/ignore is quite huge.
 
@@ -154,18 +200,8 @@ The difference isn't too significant.
 3. **Eidolon 1** The Cipher effect given by the ultimate lasts for 1 more turn and all allies with the effect have their ATK increased by 40%. A pretty nice buff.
 
 4. **Eidolon 4** The ultimate recovers 1 more skill point and the upper cap of skill points also increases by 1. Only useful for super skill point-intensive teams.
-## 11. RGM Relevancy:
-**Memory of Chaos, Pure Fiction and Apocalyptic Shadow**
 
 
->[!warning] RGM Notes: 
-> All Harmony path characters' relevancy in end-game content will depend on the teams they can effectively fit in. A lot more often than not, the teams they can fit in include teams for all 3 game modes. This is another reason as to why their value for an account is so high.
 
-## 12. Relevant Teams for Sparkle: 
->[!tip] Where to use? 
->Sparkle works best when your damage dealer doesn't want to build any speed and are able to fully make use of her buffs.
-That is because the ideal way you speed tune most teams with Sparkle is by having her act as the damage dealer's speed, bringing her up to her action value.
-> - She also works really well in teams that are rather skill point intensive, as she herself is over-all skill point positive in her rotation.
 
-**Sparkle is most commonly used along:** Seele, Acheron, Argenti, Jing Yuan, Clara, Yunli and Dan Heng • Imbibitor Lunae. She can also be used with Blade and Dr. Ratio, though worse than using a Bronya for Blade or a Tingyun for Dr. Ratio.
-
+[^1]: **Hypercarry:** A team where every member is designed to support the DPS, for example: Yunli, Sparkle, Robin and Tingyun is a hypercarrry. With every teammate having the purpose of providing for the DPS.  
