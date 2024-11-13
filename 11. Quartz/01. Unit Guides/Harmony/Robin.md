@@ -68,7 +68,7 @@ NOTE: **If you get a Physical DMG Bonus main stat sphere with good substats, it'
 
 ## 5. Subsidiary Stats Priority 
 1. **Speed** Minimum necessary is 116.667, or 120 if you need to for planar ornament set effects.
-2. **ATK%** Prioritise this until ~4000 ATK without Signature LC / ~4500 ATK with Sign LC.
+2. **ATK%** Prioritize this until ~4000 ATK without Signature LC / ~4500 ATK with Sign LC.
 3. **HP% & DEF%**
 4. Flat ATK
 **Note:**
@@ -82,7 +82,7 @@ Robin's best relic set is a combination of ATK buffing 2-piece sets. Sets usable
 - **2-piece Musketeer of Wild Wheat**
    ↑ Each of the 3 above provide a 12% ATK increase to Robin.
 
-- **2-piece / 4-piece Champion of Streetwise Boxing** Increases Robin's personal damage and, at 4-Pc set effect, her ATK after using her basic attack or getting hit. Technically BiS for Robin's personal damage but is RNG.
+- **2-piece / 4-piece Champion of Streetwise Boxing** Increases Robin's personal damage and, at 4-Pc set effect, her ATK after using her basic attack or getting hit. Technically BiS for Robin's personal damage but requires getting hit, which you can't guarantee.
 
 - **2-piece Pioneer Diver of Dead Waters** Good for her personal damage but doesn't increase her attack buff, bringing less team damage increase.
 
