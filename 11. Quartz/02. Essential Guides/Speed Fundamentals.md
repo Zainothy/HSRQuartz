@@ -3,10 +3,6 @@ Topic: Speed and Breakpoints
 tags:
   - HSR
   - "#SpeedAV"
-  - Harmony
-  - Support
-  - Sparkle
-  - Quantum
   - SpeedAV
 aliases:
   - Speed
