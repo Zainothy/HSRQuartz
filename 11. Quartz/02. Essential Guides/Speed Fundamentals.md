@@ -3,6 +3,10 @@ Topic: Speed and Breakpoints
 tags:
   - HSR
   - "#SpeedAV"
+  - Harmony
+  - Support
+  - Sparkle
+  - Quantum
   - SpeedAV
 aliases:
   - Speed
@@ -18,6 +22,7 @@ cssclasses:
   - wide-page
 share: "true"
 Links: "false"
+Last_Updated: 2024-11-06
 ---
 ## Thresholds: 
 
@@ -26,9 +31,56 @@ Thresholds are specific levels of speed stats needed on a character in order to 
 ![[../Media/Speed-Chart 2.png|Speed-Chart 2.png]]
 
 ![[../Media/Speed-Chart1.png|Speed-Chart1.png]]
+### Relevant Breakpoints: 
+Effective 200 speed breakpoints with Dance dance dance:
 
-*Credit: Guoba Certified and MrPokke*
+S5 DDD = 184.000
+S4 DDD = 185,334
+S3 DDD = 186,667
+S2 DDD = 188.000
+S1 DDD = 189,334
 
+Effective 200 speed breakpoints with Dance dance dance + eagle :
+
+S5 DDD + Eagle = 167,334
+S4 DDD + Eagle = 168,600
+S3 DDD + Eagle = 170.000
+S2 DDD + Eagle = 171,300
+S1 DDD + Eagle  = 172.600
+
+
+Effective 200 speed breakpoints with Dance dance dance + vonwacq :
+
+S5 DDD + Vonwacq = 157,300
+S4 DDD + Vonwacq = 158.600
+S3 DDD + Vonwacq = 160.000
+S2 DDD + Vonwacq = 161,300
+S1 DDD + Vonwacq  = 162,600
+
+Effective 200 speed breakpoints with Dance dance dance + Vonwacq + Eagle : 
+
+S5 DDD + Vonwacq + Eagle = 140,600
+S4 DDD + Vonwacq + Eagle = 142.000
+S3 DDD + Vonwacq + Eagle = 143,300
+S2 DDD + Vonwacq + Eagle = 144,600
+S1 DDD + Vonwacq + Eagle = 146.000
+
+Four piece eagle = 183,334
+
+Eagle + Vonwacq = 156,600
+
+Do keep in mind that Vonwacq only applies for the first cycles first wave, not second.
+
+Effective 160 Breakpoints with Eagle/DDD (assuming one ult):
+
+Eagle = 150
+
+S5 DDD = 150.400
+S4 DDD = 151.200
+S3 DDD = 152.000
+S2 DDD = 152.800
+S1 DDD = 153.600
+## Action Value: 
 Speed can be equated to distance divided by MoC Action Value, this is shown in the above charts. If you wanted to go twice on the first cycle, you would do: 
 $${20,000\over150}=133.4$$
 	We would do this because, to gain a singular action. A unit needs to move across 10,000 distance: therefore, if we want our unit to move twice we need 20,000 distance to be travelled. We want this distance to be travelled twice in the first cycle, and this means that we would need the unit to travel 20,000 distance within 150 Action Value, because the first cycle of MoC is 150 Action Value. After each cycle, we add 100 AV: 250, 350, 450, etc.
@@ -37,7 +89,7 @@ To put this simply, when X= No. of Turns Wanted in Cycle
 $${X {\space}\times\frac{10,000-\text{AV \ Advance}}{AV}}={\text SPD}$$
 When given a simple problem like: ‘How much speed is needed for 14 turns across 6 cycles’. We would plug those values into the formula, 6 cycles totals to 650 AV. So we would do $14\times\frac{10,000}{650}=215.384615385$ 
 
-## Action Value Advance: 
+### Action Value Advance: 
 
 Action advance can be thought of as advancing a unit forward in distance, reducing the 10,000 distance units needing to be travelled to gain one action. An example of this being Vonwaq, a 40% advance now requires the unit to travel 6,000 distance. This advance will only occur once. Keeping action advance in mind, we can now apply this to the calculations, if you were using Vonwaq on a unit and want them to take two turns in a cycle. You would subtract 4,000 from the total distance. So instead of it being X * 1000/AV. It would now be:
 $$X\times\frac{10000-4000}{AV}$$
