@@ -57,7 +57,7 @@ Enemies are somewhat low HP, but not low enough to kill them without Robin's ult
 
 The Speed you will want to build on your Sparkle will basically be that of the highest speed break point you can achieve, as Sparkle's Action Forward amount is only 50%. Compared to a unit with 100% Action Forward or immediate action, you are wasting AV waiting for the Damage dealer to act first before Sparkle can AF them; on top of having that first turn NOT buffed by Sparkle. 
 For most people, 160 SPD will be somewhat achievable and is a good speed break point to aim for.
-However, if you have a Superimposition 5 Dance! Dance! Dance! light cone, for just 8 more SPD than that at 168 SPD on the 4-Pc Eagle of Twilight Line set you can effectively achieve the 200 SPD break point, with 3 turns in the first cycle and 2 turns every cycle afterwards. For reference 134 SPD is only 2 turns in the first cycle, with every cycle afterward besides 1 having her only get 1 turn each. View speed information[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]
+However, if you have a Superimposition 5 Dance! Dance! Dance! light cone, for just 8 more SPD than that at 168 SPD on the 4-Pc Eagle of Twilight Line set you can effectively achieve the 200 SPD break point, with 3 turns in the first cycle and 2 turns every cycle afterwards. For reference 134 SPD is only 2 turns in the first cycle, with every cycle afterward besides 1 having her only get 1 turn each. View speed information [[../../02. Essential Guides/Speed Fundamentals#Thresholds|here]]
 ## 3. RGM Relevancy:
 **Memory of Chaos, Pure Fiction and Apocalyptic Shadow**
 
