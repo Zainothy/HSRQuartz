@@ -64,8 +64,8 @@ The ally you will want to target will 99.99% of the time be your Damage Dealer. 
 The Speed you will want to build on your Sparkle will basically be that of the highest speed break point you can achieve, as Sparkle's Action Forward amount is only 50%. Compared to a unit with 100% Action Forward or immediate action, you are wasting AV waiting for the Damage dealer to act first before Sparkle can AF them; on top of having that first turn NOT buffed by Sparkle. 
 - For most people, 160 SPD will be somewhat achievable and is a good speed break point to aim for.
   
-We recommend that you check the [[#10. Speed Tuning]] section in case that you're able to aim for one of the break points listed here, instead of just aiming for 160.
-View information on how SPD and the Turn-Based Combat in HSR works [[Turn-based Combat#Thresholds|here]].
+We recommend that you check the [[Sparkle#10. Speed Tuning|Speed Tuning]] section in case that you're able to aim for one of the break points listed here, instead of just aiming for 160.
+View information on how SPD and the Turn-Based Combat in HSR works [[../../02. Essential Guides/Turn-based Combat#Thresholds|here]].
 
 ## 3. RGM Relevancy:
 **Memory of Chaos, Pure Fiction and Apocalyptic Shadow**
@@ -86,13 +86,13 @@ Sparkle's Action Forward is only 50%, which doesn't allow her to be used like Br
 ### Team Compositions 
 We will be giving you some examples of good and at least somewhat comfortable teams that you can use with Sparkle. For more details on how to play the teams, please check out the Damage Dealer's guide.
 
-| Dan Heng • IL<br>![[Dan Heng • Imbibitor Lunae.png\|100]] | Pela<br> ![[Pela.png\|100]] | Sparkle<br>![[Sparkle.png\|100]] | Gallagher<br>![[Gallagher.png\|100]] |
+| Dan Heng • IL<br>![[../../Media/Dan Heng • Imbibitor Lunae.png\|100]] | Pela<br> ![[../../Media/Pela.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Gallagher<br>![[../../Media/Gallagher.png\|100]] |
 | --------------------------------------------------------- | --------------------------- | -------------------------------- | ------------------------------------ |
 
-| Yunli<br>![[Yunli.png\|100]] | Tingyun<br>![[Tingyun.png\|100]] | Sparkle<br>![[Sparkle.png\|100]] | Huohuo<br>![[Huohuo.png\|100]] |
+| Yunli<br>![[../../Media/Yunli.png\|100]] | Tingyun<br>![[../../Media/Tingyun.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Huohuo<br>![[../../Media/Huohuo.png\|100]] |
 | ---------------------------- | -------------------------------- | -------------------------------- | ------------------------------ |
 
-| Seele / Jade<br>![[Seele.png\|75x135]]![[Jade.png\|75x135]] | Robin<br>![[Robin.png\|100]] | Sparkle<br>![[Sparkle.png\|100]] | Gallagher / Fu Xuan<br>![[Gallagher.png\|75x135]]![[Fu Xuan.png\|75x135]] |
+| Seele / Jade<br>![[../../Media/Seele.png\|75x135]]![[../../Media/Jade.png\|75x135]] | Robin<br>![[../../Media/Robin.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Gallagher / Fu Xuan<br>![[../../Media/Gallagher.png\|75x135]]![[../../Media/Fu Xuan.png\|75x135]] |
 | ----------------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------------------------------------------------- |
 
 ## 5. Trace Levelling Priority 
@@ -104,7 +104,7 @@ We will be giving you some examples of good and at least somewhat comfortable te
 ## 6. Light Cone Rankings 
 ### 1. **Earthly Escapade**
 **Sparkle's Signature 5★ Light Cone
-![[Earthly Escapade.png|210]]**
+![[../../Media/Earthly Escapade.png|210]]**
 >[!context] Light Cone Effect
 >The wearer's Crit. DMG is increased by 32%
 At the start of battle as well as for every 4 skill points the wearer recovers, all allies' Crit. Rate and Crit. DMG gets increased by 10% and 28% respectively, for 4 turns
@@ -112,7 +112,7 @@ At the start of battle as well as for every 4 skill points the wearer recovers, 
 This Signature LC might seem incredible at first, but in actuality it's only a small upgrade over other options, unless the team you're using Sparkle in is one where damage is primarily dealt out-side Damage Dealers' turn.
 ### 2. **But the Battle Isn't Over**
 **Bronya's Signature 5★ Light Cone**
-![[But the Battle Isn't Over.png|210]]
+![[../../Media/But the Battle Isn't Over.png|210]]
 >[!context] Light Cone Effect
 >The Wearer's ERR is increased by 10%. 
 >The wearer's first Ultimate and every other one following it regenerates 1 Skill Point for the team.
@@ -122,7 +122,7 @@ The ERR is useless in 99.9% of cases.
 Extra SP Generation is welcome for some teams and DMG Bonus buff is decent, although it only lasts for 1 turn, making it *not* apply for Follow-up Attacks.
 ### 3. **Dance! Dance! Dance!**
 **Gacha 4★ Light Cone
-![[Dance! Dance! Dance!.png|210]]
+![[../../Media/Dance! Dance! Dance!.png|210]]
 >[!context] Light Cone Effect
 >
 Advances forward all allies' action by 16-24% when the wearer uses their Ultimate.
@@ -131,14 +131,14 @@ Action Forward is useful if you build enough speed to achieve a higher break poi
 Sparkle can consistently proc this Light Cone's effect, as she can achieve a 3 Turn Ultimate rotation by just using ERR main stat Link Rope.
 ### 4. **Past and Future**
 **Free 4★ Light Cone**
-![[Past and Future.png|210]]
+![[../../Media/Past and Future.png|210]]
 >[!context] After using Skill on a target ally, buffs them with 16-32% Damage Bonus for 1 turn.
 
 DMG Bonus buff. It's not that big, but definitely helps.
 If you're using a Quantum Element Damage Dealer, it is likely better for you to use Planetary Rendezvous instead, as that Light Cone's effect is permanent.
 ### 5. **Planetary Rendezvous**
 **Gacha 4★ Light Cone**
-![[Planetary Rendezvous.png|210]]
+![[../../Media/Planetary Rendezvous.png|210]]
 >[!context] Allies of the same Element Type as the wearer get buffed with 12-24% DMG Bonus permanently.
 
 >[!warning] Only use with a Quantum Element Damage Dealer.
@@ -206,7 +206,7 @@ Useful for hitting SPD Break Points. Otherwise a useless set.
 
 ## 9. Stat Goals
 - 200+ Crit. DMG. If you have her signature light cone, aim for 250+ Crit. DMG.
-- Try to effectively hit 200 SPD with one of the break points here [[#10. Speed Tuning]].
+- Try to effectively hit 200 SPD with one of the break points here [[Sparkle#10. Speed Tuning|Speed Tuning]].
   If you can't achieve that, try hitting **153.9 Speed** `OR` **138.5 SPD** `OR` **169.3 SPD**. 
 ##### With HP Main Stat Sphere:
 - If you're using a 4★ Light Cone, aim for **4400+ HP** and **1100+ DEF**.
@@ -216,14 +216,14 @@ Useful for hitting SPD Break Points. Otherwise a useless set.
 - If you're using a 5★ Light Cone, aim for **4000+ HP** and **1700+ DEF** instead.
 
 ### **Notes:**
-- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[Turn-based Combat#Thresholds|here]]** and check out character's decimal speed **[here](Https://enka.network)**
+- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[../../02. Essential Guides/Turn-based Combat#Thresholds|here]]** and check out character's decimal speed **[here](Https://enka.network)**
 
 - If you have any teammates that **permanently** buff speed (such as Ruan Mei and E1 Huohuo), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
-	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[Turn-based Combat#Relevant Breakpoints|the relevant breakpoints]].
+	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[../../02. Essential Guides/Turn-based Combat#Relevant Breakpoints|the relevant breakpoints]].
 
 ## 10. Speed Tuning
 ##### Here are some breakpoints for effective 200 SPD (3 Turn) Sparkle**
-*If not listed here consult [[Turn-based Combat#Relevant Breakpoints|Relevant breakpoint list]]*. If not listed in neither of the locations, we encourage that you calculate it yourself. 
+*If not listed here consult [[../../02. Essential Guides/Turn-based Combat#Relevant Breakpoints|Relevant breakpoint list]]*. If not listed in neither of the locations, we encourage that you calculate it yourself. 
 You can check your character's SPD numbers with 3 decimals by holding your cursor over the number (or holding your finger over it on mobile) at [https://enka.network]().
 
 - **189.9**: with Ruan Mei (RM)

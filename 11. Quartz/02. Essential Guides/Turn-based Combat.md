@@ -27,10 +27,10 @@ Last_Updated: 2024-11-06
 
 ### Character's Base Stats
 Characters' Base Stats, including Base SPD, are found by clicking the "More Stats" button when checking a character's details. The Base Stats are in gray.
-![[Robin Stats Example.png|260]]
-![[Robin Stats Example 2.png|400]]
+![[../Media/Robin Stats Example.png|260]]
+![[../Media/Robin Stats Example 2.png|400]]
 They can also be seen in-battle:
-![[Screenshot_1222.png|400]]
+![[../Media/Screenshot_1222.png|400]]
 ## __Common Terms__
 Nomenclature and their explanations.
 
