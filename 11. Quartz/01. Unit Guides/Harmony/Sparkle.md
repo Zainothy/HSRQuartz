@@ -3,7 +3,6 @@ Topic: Unit Guide
 tags:
   - Harmony
   - "#Support"
-  - Sparkle
   - Quantum
   - Support
 cssclasses:
@@ -27,8 +26,8 @@ Last_Updated: 2024-11-13
 >    HP = 1397      DEF = 485      ATK = 524      SPD = 101
 ### **Info:**
 Sparkle is a Harmony Path character that is able to advance forward another ally's action with her skill, while providing a strong Crit. DMG to the ally and a medium DMG% buff as well as a small ATK% buff to all allies.
-One of the key points to note is her Ultimate, as it's able to make Sparkle effectively be skill point-positive over 3 turns with its somewhat cheap cost, even when constantly using your skill.
-She is best utilized in team compositions that make use of every part of her kit[^1]. 
+
+One of the key points to note is her Ultimate, as it's able to make Sparkle effectively be skill point-positive over 3 turns with its somewhat cheap cost, even when constantly using your skill. 
 
 >[!tip] Kit TLDR: 
 >- **Skill:** Increases Crit. DMG of an ally by 24% of Sparkle's Crit. DMG + a flat 45% for 1 turn. Advances forward the target ally by 50%.
@@ -44,25 +43,29 @@ She is best utilized in team compositions that make use of every part of her kit
 >- **Stat Bonus Traces:**
 >  24% Crit. DMG, 28% HP, 18% Effect RES
 
+She is best utilized in team compositions that make use of every part of her kit, which often times are Hypercarry teams[^1].
 ## 2. How to Play 
-### Skill Points
+#### Skill Points
 >[!tip] Skill Point Economy: 
 >Sparkle's Ultimate regenerates enough skill points so that Sparkle can be skill point positive over a 3 turn rotation. Because of that, you pretty much just want to use it whenever you get it.
 Make sure to use Sparkle's Ultimate before you use Sparkle's Skill if you get Sparkle's Ultimate right before Sparkle's turn or during it, so that you don't waste the skill's Energy Generation.
-### Action Forward 
+#### Action Forward 
 Now, for characters that can Advance Forward other units' action/turn like Sparkle can, what you will want to know and watch out for is:
-When it is best to use the AF ability
-What ally to target with the ability
-What SPD to build on your Action Advancer (in this case Sparkle) and Damage Dealer, to most efficiently make use of their AF amount.
+1. When it is best to use the AF ability
+2. What ally to target with the ability
+3. What SPD to build on your Action Advancer (in this case Sparkle) and Damage Dealer, to most efficiently make use of their AF amount.
 
 Sparkle's AF comes from her Skill, so it's always best to just use it whenever it's Sparkle's turn as her basic attack doesn't do much of anything.
 
 The ally you will want to target will 99.99% of the time be your Damage Dealer. Those 0.01% of cases include times when:
-Enemies are somewhat low HP, but not low enough to kill them without Robin's ultimate being active and Sparkle's turn is up, you would want to use Sparkle's skill on Robin to have use her Ultimate and end the battle quicker, potentially saving a cycle.
+1. Enemies are somewhat low HP, but not low enough to kill them without Robin's ultimate being active and Sparkle's turn is up, you would want to use Sparkle's skill on Robin to have use her Ultimate and end the battle quicker, potentially saving a cycle.
+2. When you want to advance forward a Robin at the start of battle so that she gains a second turn before enemies can act and thus activate her Ultimate. That is so that by the time the enemies hit your allies, buffs will be present for characters with Counter Attacks to use.
 
 The Speed you will want to build on your Sparkle will basically be that of the highest speed break point you can achieve, as Sparkle's Action Forward amount is only 50%. Compared to a unit with 100% Action Forward or immediate action, you are wasting AV waiting for the Damage dealer to act first before Sparkle can AF them; on top of having that first turn NOT buffed by Sparkle. 
-For most people, 160 SPD will be somewhat achievable and is a good speed break point to aim for.
-However, if you have a Superimposition 5 Dance! Dance! Dance! light cone, for just 8 more SPD than that at 168 SPD on the 4-Pc Eagle of Twilight Line set you can effectively achieve the 200 SPD break point, with 3 turns in the first cycle and 2 turns every cycle afterwards. For reference 134 SPD is only 2 turns in the first cycle, with every cycle afterward besides 1 having her only get 1 turn each. View speed information [[../../02. Essential Guides/Speed Fundamentals#Thresholds|here]].
+- For most people, 160 SPD will be somewhat achievable and is a good speed break point to aim for.
+  
+We recommend that you check the [[#10. Speed Tuning]] section in case that you're able to aim for one of the break points listed here, instead of just aiming for 160.
+View information on how SPD and the Turn-Based Combat in HSR works [[Turn-based Combat#Thresholds|here]].
 
 ## 3. RGM Relevancy:
 **Memory of Chaos, Pure Fiction and Apocalyptic Shadow**
@@ -71,6 +74,7 @@ However, if you have a Superimposition 5 Dance! Dance! Dance! light cone, for ju
 
 ## 4. Team Compositions & Synergies: 
 Sparkle works best when your damage dealer doesn't want to build any speed and are able to fully make use of her buffs and skill point positive-ness.
+
 Sparkle's Action Forward is only 50%, which doesn't allow her to be used like Bronya by giving a unit a second turn. Instead, she can act as the damage dealer's speed, bringing her up to her action value.
 
 >[!tip] Where to use Sparkle? 
@@ -85,24 +89,22 @@ We will be giving you some examples of good and at least somewhat comfortable te
 | Dan Heng • IL<br>![[Dan Heng • Imbibitor Lunae.png\|100]] | Pela<br> ![[Pela.png\|100]] | Sparkle<br>![[Sparkle.png\|100]] | Gallagher<br>![[Gallagher.png\|100]] |
 | --------------------------------------------------------- | --------------------------- | -------------------------------- | ------------------------------------ |
 
-| Yunli | Tingyun | Sparkle | Huohuo |
-| ----- | ------- | ------- | ------ |
+| Yunli<br>![[Yunli.png\|100]] | Tingyun<br>![[Tingyun.png\|100]] | Sparkle<br>![[Sparkle.png\|100]] | Huohuo<br>![[Huohuo.png\|100]] |
+| ---------------------------- | -------------------------------- | -------------------------------- | ------------------------------ |
 
-| Jade | Robin | Sparkle | Gallagher |
-| ---- | ----- | ------- | --------- |
-
-
-
+| Seele / Jade<br>![[Seele.png\|75x135]]![[Jade.png\|75x135]] | Robin<br>![[Robin.png\|100]] | Sparkle<br>![[Sparkle.png\|100]] | Gallagher / Fu Xuan<br>![[Gallagher.png\|75x135]]![[Fu Xuan.png\|75x135]] |
+| ----------------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------------------------------------------------- |
 
 ## 5. Trace Levelling Priority 
-**Skill>Ultimate>Talent**
+#### Skill>Ultimate>Talent**
 **All Ascension-locked Abilities Traces are important and must be unlocked.**
 - Unlock Crit. DMG stat bonus traces first, but eventually all.
 - Don't level up the basic attack.
 
 ## 6. Light Cone Rankings 
 ### 1. **Earthly Escapade**
-**Sparkle's Signature 5★ Light Cone**
+**Sparkle's Signature 5★ Light Cone
+![[Earthly Escapade.png|210]]**
 >[!context] Light Cone Effect
 >The wearer's Crit. DMG is increased by 32%
 At the start of battle as well as for every 4 skill points the wearer recovers, all allies' Crit. Rate and Crit. DMG gets increased by 10% and 28% respectively, for 4 turns
@@ -110,6 +112,7 @@ At the start of battle as well as for every 4 skill points the wearer recovers, 
 This Signature LC might seem incredible at first, but in actuality it's only a small upgrade over other options, unless the team you're using Sparkle in is one where damage is primarily dealt out-side Damage Dealers' turn.
 ### 2. **But the Battle Isn't Over**
 **Bronya's Signature 5★ Light Cone**
+![[But the Battle Isn't Over.png|210]]
 >[!context] Light Cone Effect
 >The Wearer's ERR is increased by 10%. 
 >The wearer's first Ultimate and every other one following it regenerates 1 Skill Point for the team.
@@ -118,20 +121,24 @@ This Signature LC might seem incredible at first, but in actuality it's only a s
 The ERR is useless in 99.9% of cases.
 Extra SP Generation is welcome for some teams and DMG Bonus buff is decent, although it only lasts for 1 turn, making it *not* apply for Follow-up Attacks.
 ### 3. **Dance! Dance! Dance!**
-**Gacha 4★ Light Cone**
+**Gacha 4★ Light Cone
+![[Dance! Dance! Dance!.png|210]]
 >[!context] Light Cone Effect
 >
-Advances forward all allies' action by 16-24% when the wearer uses their ultimate.
+Advances forward all allies' action by 16-24% when the wearer uses their Ultimate.
 
-This effect is very useful if you know how to make use of it, but less so if you don't. We won't get into the specifics of it in this section.
-Sparkle can very easily achieve a 3 Turn Ultimate rotation by just using ERR main stat link rope, making this light cone's effect consistent on her.
-### 4. **Past and Future S5**
+Action Forward is useful if you build enough speed to achieve a higher break point together with it, but less so if you don't.
+Sparkle can consistently proc this Light Cone's effect, as she can achieve a 3 Turn Ultimate rotation by just using ERR main stat Link Rope.
+### 4. **Past and Future**
 **Free 4★ Light Cone**
+![[Past and Future.png|210]]
 >[!context] After using Skill on a target ally, buffs them with 16-32% Damage Bonus for 1 turn.
 
-DMG Bonus buff is useful. If you're using a Quantum Element Damage Dealer, it is likely better for you to use Planetary Rendezvous instead, as its effect is permanent.
+DMG Bonus buff. It's not that big, but definitely helps.
+If you're using a Quantum Element Damage Dealer, it is likely better for you to use Planetary Rendezvous instead, as that Light Cone's effect is permanent.
 ### 5. **Planetary Rendezvous**
 **Gacha 4★ Light Cone**
+![[Planetary Rendezvous.png|210]]
 >[!context] Allies of the same Element Type as the wearer get buffed with 12-24% DMG Bonus permanently.
 
 >[!warning] Only use with a Quantum Element Damage Dealer.
@@ -151,70 +158,111 @@ DMG Bonus buff is useful. If you're using a Quantum Element Damage Dealer, it is
 4. **Effect Resistance%**
 ## 8. Relic and Planar Ornament Sets
 #### **Relic Sets**  
-- **Eagle of Twilight Line**: 24% Advance to wearer on ultimate (The 4-piece set effect specifically). This is extremely useful for 0c AND normal runs but we don't expect you to run this set as it can be inefficient to farm.
+- **Eagle of Twilight Line** (4-Piece Set Effect ONLY)
+    When using the Ultimate, wearer's Action is Forwarded by 24%. 
+  This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
 
-- **Sacredos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
+- **Sacerdos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
 	- Increases Speed by 6%
-	- When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turn(s). This effect can stack up to **2** time(s).
-TLDR: Eagle is best when trying to achieve specific speed tuning breakpoints, 3 turn Sparkle for example. Sacerdos is the best general purpose set, providing a Speed stat stick and good damage amp. 
+	- When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.
+
+**TL;DR** Eagle is best when trying to achieve specific speed tuning breakpoints, 3 Turns in 0 cycle (effective 200) for example, while Sacerdos is the best general purpose set increasing Sparkle's damage amplification.
 #### **Planar Ornament Sets**
 The difference in buffing capability isn't that big and Sparkle doesn't care for extra ERR, so just use the set that you happened to get the best stats on while grinding for other sets like Bananamusement or Rutilant Arena.
 
-1. **Lushaka, the Sunken Seas**: Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%. Best set for pure amp, however Vonwaq or Forge may be wanted for specific breakpoints.
+1. **Lushaka, the Sunken Seas**
+    Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%. 
+Amplifies a single ally's damage the most. Other set effects can be better.
 
-3. **Broken Keel** Provides 10% Crit DMG buff for all teammates. Best for teams with a crit scaling damage dealer. Make sure to get effect resistance substats to proc its effect.
+3. **Broken Keel**
+    All allies' Crit. DMG is increased by 10% if the wearer's Effect RES **≥** 30%. Increases the wearer's Effect RES by 10%.
+Amplifies the entire team's damage the most, assuming allies scale on CRIT.
+Make sure to get Effect Resistance sub-stats to proc its effect.
 
-4. **Fleet of the Ageless** Provides 12% ATK buff to all teammates. Best for DoT teams.
+4. **Fleet of the Ageless**
+    All allies' ATK is increased by 8% ATK when the wearer's SPD is **≥** 120.
+    The wearer's HP is increased by 12%.
+Generally the best set to use on a support that you use in a DoT team, but Sparkle isn't a support for that type of team.
+HP buff is nice. ATK buff is small, so it's likely better to use whatever relics you have with good stats instead of forcing yourself to use this set.
+Efficient set to grind for new players.
 
-5. **Sprightly Vonwacq** Advances Sparkle's action forward by 40% at the start of battle. Action forward is useful but can be a bad set to use if you have other allies that need their turn to come up before the damage dealer's to give their buffs (like Tingyun), unless you also increase those supports' speed.
+5. **Sprightly Vonwacq**
+    At the start of battle, wearer's Action is Forwarded by 40%.
+    The wearer's ERR is increased by 5%.
+Action Forward allows Sparkle to get extra turns.
+Can be a bad set to use if you have allies that need to act before the wearer (for example, to give buffs like Tingyun). This can be worked around if you increase those/that allies'/ally's SPD, but you might not be able to or is inconvenient to.
 
-6. **Penacony, Land of the Dreams** Provides 10% DMG bonus buff to all other allies of the same element as the wearer. Only use with a quantum element damage dealer.
+6. **Penacony, Land of the Dreams**
+    Allies of the same Element Type as the wearer have their DMG Bonus increased by 10%. This effect does not apply to the wearer.
+    The wearer's ERR is increased by 5%.
+    Only use with a quantum element damage dealer.
+Usable only if you can proc its DMG Bonus effect.
+Generally still worse than Broken Keel.
 
-7. **Forge of the Kalpagni Lantern** Just a 6% speed buff.
+7. **Forge of the Kalpagni Lantern**
+    The wearer's SPD is increased by 6%.
+    The second affect is inapplicable and useless.
+Useful for hitting SPD Break Points. Otherwise a useless set.
 
 ## 9. Stat Goals
 - 200+ Crit. DMG. If you have her signature light cone, aim for 250+ Crit. DMG.
 - Try to effectively hit 200 SPD with one of the break points here [[#10. Speed Tuning]].
   If you can't achieve that, try hitting **153.9 Speed** `OR` **138.5 SPD** `OR` **169.3 SPD**. 
-##### With HP main stat sphere:
-**4400+ HP  1100+ DEF** 
-- If you're using a 5★ Light Cone, then aim for **5000+ HP** and **1200+ DEF** instead.
-##### With DEF main stat sphere:
-**3500+ HP**  **1500+ DEF**
-- Using a 5★ LC, aim for **4000+ HP** and **1700+ DEF** instead.
+##### With HP Main Stat Sphere:
+- If you're using a 4★ Light Cone, aim for **4400+ HP** and **1100+ DEF**.
+- If you're using a 5★ Light Cone, aim for **5000+ HP** and **1200+ DEF** instead.
+##### With DEF Main Stat Sphere:
+- If you're using a 4★ Light Cone, aim for **3500+ HP** and **1500+ DEF**.
+- If you're using a 5★ Light Cone, aim for **4000+ HP** and **1700+ DEF** instead.
 
 ### **Notes:**
-- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[../../02. Essential Guides/Speed Fundamentals#Thresholds| here]]** and check out character's decimal speed [here](Https://enka.network)
+- 169.3, 153.9 and 138.5 SPD are speed break points, check out what they are useful for **[[Turn-based Combat#Thresholds|here]]** and check out character's decimal speed **[here](Https://enka.network)**
 
-- If you have any teammates that **permanently** buff speed (like Ruan Mei), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
-	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints|the relevant breakpoints]].
+- If you have any teammates that **permanently** buff speed (such as Ruan Mei and E1 Huohuo), make sure to lower your speed accordingly as more speed than required for a break point is rarely useful.
+	- If you have sources of action advance, such as DDD or 4 Piece eagle, and wish to know how much speed you need: please consult [[Turn-based Combat#Relevant Breakpoints|the relevant breakpoints]].
 
 ## 10. Speed Tuning
-**Here are some breakpoints for effective 200 SPD (3 Turn) Sparkle:**
-*If not listed here consult [[../../02. Essential Guides/Speed Fundamentals#Relevant Breakpoints| Relevant breakpoint list]]*. If still not listed, calculation required. 
+##### Here are some breakpoints for effective 200 SPD (3 Turn) Sparkle**
+*If not listed here consult [[Turn-based Combat#Relevant Breakpoints|Relevant breakpoint list]]*. If not listed in neither of the locations, we encourage that you calculate it yourself. 
 You can check your character's SPD numbers with 3 decimals by holding your cursor over the number (or holding your finger over it on mobile) at [https://enka.network]().
 
-- **189.9**: with Ruan Mei
-- **183.334**: with 4-piece Eagle of Twilight Line
+- **189.9**: with Ruan Mei (RM)
 - **184**: with S5 Dance! Dance! Dance! (DDD)
-- **173.334**: with Eagle and Ruan Mei
-- **174**: with S5 DDD and Ruan Mei 
-- **178**: with E1 Huohuo and Ruan Mei
-- **168**: with 2 S5 DDD procs 
-- **167**: with 2 Eagle procs **OR** One Eagle + One S5 DDD
-- **158**: with 2 S5 DDD procs and Ruan Mei
-- **157**: with 2 Eagle procs and Ruan Mei
+- **183.334**: with 4-Pc Eagle of Twilight Line (Eagle)
+- **177.78**: with E1 HH + RM
+- **173.9**: with S5 DDD + RM
+- **173.234**: with Eagle + RM
+- **171.88**: with S5 DDD + HH
+- **171.214**: with Eagle + HH
+- **168**: with 2 procs of S5 DDD
+  (Needs a second ally with S5 DDD)
+- **167.334**: with Eagle + S5 DDD
+- **157.234**: with Eagle + S5 DDD + RM
+- **155.114**: with Eagle + S5 DDD + HH
+- **145.114**: with Eagle + S5 DDD + E1 HH + RM
+- **129.114**: with Eagle + 2 procs of S5 DDD + E1 HH + RM
+  (Needs a second ally with S5 DDD)
 
-## 11. Eidolons Run Down: 
-
-##### **Eidolon 2**
-Every stack of the talent now additionally allows allies to ignore 8% of the enemy's defense when attacking, up to 3 times. 24% defense shred/ignore is quite huge.
-##### **Eidolon 6**
-The Crit. DMG buff provided by the skill additionally increases by 30% of Sparkle's Crit. DMG and the skill's Crit. DMG buff now extends to all allies with 'Cipher', making it a team-wide buff pretty much permanently. A huge increase for dual dps and triple dps teams, but not so much for hypercarry.
+>[!tip] For Break Points with 1 proc of S5 DDD, every superimposition you're missing adds around 1.4 SPD extra speed that you have to build.
+## 11. Eidolons Run-down
 ##### **Eidolon 1**
-The Cipher effect given by the ultimate lasts for 1 more turn and all allies with the effect have their ATK increased by 40%. A pretty nice buff.
+    The 'Cipher' effect given by the Ultimate lasts for 1 more turn and all allies' ATK is increased by 40% while they hold 'Cipher'.
+ATK Buff is decent and the Cipher turn duration extension allows the DMG Bonus increase effect from the Ultimate effectively be permanent after the first Ultimate usage.
+##### **Eidolon 2**
+    Every stack of the Talent now additionally allows allies to ignore 8% of the enemy's DEF when attacking, stacking up to 3 times for a total of 24% DEF Ignore.
+DEF Ignore and DEF Shred is always welcome and is a good damage increase, even more so the more of it you stack, up to 100%.
+~15% DMG Increase to ~18% DMG Increase (0 DEF Shred vs 76% DEF Shred present)
+Great eidolon that makes Sparkle's damage amplification feel quite significant.
 ##### **Eidolon 4**
-The ultimate recovers 1 more skill point and the upper cap of skill points also increases by 1. Only useful for super skill point-intensive teams.
+    The ultimate recovers 1 extra Skill Point and Max Skill Points are increased by 1 additional skill point, from 7 to 8.
+Only useful for super skill point-intensive teams such as Dan Heng Imbibitor • Lunae's and Qingque's.
+##### **Eidolon 6**
+    The Crit. DMG buff provided by the skill is increased by an additional 30% of Sparkle's Crit. DMG and its effect now extends to all allies with 'Cipher'.
+    As long as 1 ally holds Cipher, its effect will be spread to all other teammates with 'Cipher'.
+This Eidolon makes Sparkle into a great support for teams with 2 or even 3 Damage Dealers that scale on CRIT, but doesn't do all that much in teams with only 1 Damage Dealer.
 
+We hope you found this guide helpful.
+You can see guides of characters **here** and our home page **here**.
 
-[^1]: **Hypercarry:** A team where every member is designed to support the DPS, for example: Yunli, Sparkle, Robin and Tingyun is a hypercarrry. With every teammate having the purpose of providing for the DPS.  
+[^1]: **Hypercarry Team:** A Team Composition made up of either: 1 Damage Dealer, 2 Supports and 1 Sustain characters or 1 Damage Dealer and 3 Supports, where the Damage Dealer makes up ~90% of the team's damage output.
+
