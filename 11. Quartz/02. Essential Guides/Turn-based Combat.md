@@ -25,37 +25,37 @@ Last_Updated: 2024-11-06
 >
 >The 2nd Section contains an explanation on SPD Break Points, examples and how to check what SPD your characters ***actually*** have.
 
-### Character's Base Stats
+## Character's Base Stats
 Characters' Base Stats, including Base SPD, are found by clicking the "More Stats" button when checking a character's details. The Base Stats are in gray.
 ![[../Media/Robin Stats Example.png|260]]
 ![[../Media/Robin Stats Example 2.png|400]]
 They can also be seen in-battle:
 ![[../Media/Screenshot_1222.png|400]]
-## __Common Terms__
+## Common Terms
 Nomenclature and their explanations.
 
 If it helps you, you can think of these first 3 terms like you do in physics. 
-##### Action Gauge = Distance needed to be travelled.
+### Action Gauge = Distance needed to be travelled.
 **By default, characters will have to traverse 10000 Action Gauge before they can have their turn.**
 - Action Gauge can *not* go into the negatives.
 
-##### Speed = Speed at which a character travels the Distance.
+### Speed = Speed at which a character travels the Distance.
 - The SPD Stat characters have can have additional decimals. Check your characters’ SPD stats with 3 decimals at https://enka.network by hovering your cursor over the SPD stat shown there.
 >[!warning] If you have a character's SPD being buffed by a percentage, the buff will not be equal to the character's SPD before the buff, but to that of their **Base** SPD.
 
-##### Action Value = Time spent travelling the Distance.
+### Action Value = Time spent travelling the Distance.
 - This is the metric that actually matters in Honkai: Star Rail, as end-game content tracks your performance based on either:
   - The Cycles you take in Memory of Chaos. More details on cycles is found below.
   - The amount of AV you take to kill the boss in Apocalyptic Shadow.
   - How many enemies you've killed in Pure Fiction.
 
-### _Cycles_
+### Cycles
 A Cycle is a unit of measurement, used by the game to gauge performance.
 - The first cycle at the start of battle in Memory of Chaos and Pure Fiction contains 150 AV.
 - Switching waves in Memory of Chaos also resets the current cycle's action value and makes its max 150 again. This does **NOT** happen in Pure Fiction.
 - Other cycles contain the normal 100 AV.
 
-### _Action Forward_
+### Action Forward
 Action Forward reduces the Action Gauge that needs to be travelled by a percentage of the base Action Gauge (10000). 
 For example, 25% Action Forward → -2500 Action Gauge.
 - Action Forward is **NOT** *always* the same as ”Immediately Taking Turn”. Look below for an explanation.
@@ -65,11 +65,11 @@ Remaining Action Gauge = 2365, Action Forward = 25% → `Action Gauge after 25% 
 >[!tip] A character doesn’t always need to get Advanced Forward right after their turn for them to make full use of the action forward.
   As long as action gauge remaining until your turn is equal to or higher than the amount reduced by the action forward, you will make full use of the Action Forward amount.
 
-### _Action Delay_
+### Action Delay
 Action Delay works in the exact same way as Action Forward, with the exception of it being a debuff instead of a buff; increasing the Action Gauge that the unit needs to travel.
 Example: 40% Action Delay → 4000 extra Action Gauge needed to be travelled.
 
-### _Immediate Action_
+### Immediate Action
 Immediate Action is the ability to immediately have another ally or yourself act, ignoring remaining Action Gauge and Action Value.
 
 >[!warning] *100% Action Forward **≠** ”Immediately Take Action”*
@@ -84,7 +84,7 @@ List of abilities that make allies immediately take action:
 - Sushang’s Ultimate
 - Gepard’s Eidolon 6.
 
-### _Extra Turn_
+### Extra Turn
 Extra Turns means turns that are taken outside of a unit’s normal turn order, that don’t tick down buffs and debuffs' turn duration.
 - Seele’s Talent ”Resurgence”, Firefly’s Eidolon 2, Qingque’s skill, Blade’s Skill and Boothill’s skill all count as an extra turn.
 
@@ -92,13 +92,13 @@ Extra Turns means turns that are taken outside of a unit’s normal turn order, 
 - *Extra turns have a lower priority than Follow-up Actions of any kind.*
 - If multiple Extra Turns and Ultimate Abilities are queued, they will be performed in the order they are triggered, with the exception of Blade’s, Qingque’s and Boothill’s skills that are pushed back by Ultimates.
 
-### _Follow - Up Actions_
+### Follow - Up Actions
 Follow Up Actions are actions that are generally automatically triggered and ignore turn order. They don’t retain buffs active during the turn they are activated. For example, Ratio’s skill Follow-Up Attack.
 - Follow-Up actions triggered upon entering a battle take place after the Toughness Reduction of an over-world attack or Technique (as well as Simulated Universe 99% HP enemy hp reduction.)
 - **Counters** are Follow-up Attacks initiated after the character gets hit. Characters that can initiate counters = Clara, Yunli and March 7th Preservation.
 - Natasha’s Eidolon 1 is a rare example of a Follow-Up Action done without a Follow-up Attack and without an appearance on the action order.
 
-## __Calculating AV
+## Calculating AV
 Please keep in mind the points from the previous section when reading and trying to understand this section's content.
 
 As said before, AV is the metric that is being tracked and what we will work with.
@@ -137,7 +137,7 @@ What you will want to do is first figure out when the speed buff is applied exac
 
 After finding out when exactly the SPD Change is applied, what you'll want to think about is how many turns you want on a character before and after the SPD Change, and within how much AV.
 
-#### For example, for March 7th's Skill
+#### Example: March 7th's Skill
 Once it is used on a target ally, their SPD is increased by 10% (10.8% at Skill LVL 12) of their base.
 This also means that the speed buff will not be applied until March travels to her first turn at the start of battle, making the SPD Buff less impactful for break points like 133.334 and 200 for the first wave in Memory of Chaos.
 
@@ -164,7 +164,7 @@ Considering the above, the steps you will want to take to find the answer are as
 7. ***Final Step*** Finally, after finding out the total AV taken by Feixiao before and after March's SPD buff, all we need to do is to calculate Feixiao's 2nd turn AV and add it in.
 $$150={7500\over 127}+{({10000\over x}-{7500\over127})\times x\space÷\space(x+11.2)}+{10000\over x+11.2}$$
 
-#### For example, for Firefly's Ultimate
+#### Example: Firefly's Ultimate
 which lasts until the Countdown acts with a SPD of 70, her SPD change will happen at 10000 ÷ 70 = 142.8571428571429... AV. It will be 60 flat SPD loss.
 
 For the same example, let's say we wanted to calculate how much SPD Firefly would need out-side of battle, such that she is able to get 2 turns within her Ultimate and a 3rd turn outside of the Ultimate before the first cycle ends; **in the second wave**.
@@ -197,7 +197,7 @@ It also doesn't matter when you use Dance! Dance! Dance!, as its value will stay
 ## SPD Break Points 
 Break points are specific amounts of SPD required for a character to have a certain amount of turns, within a certain amount of cycles.
 
-#### Thresholds shown below**
+#### Thresholds:
 Assuming you have no sources of Action Forward present.
 The SPD Stat characters have can have additional decimals. Check your characters’ SPD stats with 3 decimals at https://enka.network by hovering your cursor over the SPD stat shown there.
 
@@ -214,7 +214,7 @@ The SPD Stat characters have can have additional decimals. Check your characters
 |    184.616    |         12          |          4          |        2         |      low      |
 | **$200.000$** |      ***13***       |       ***5***       |   ==***3***==    | **very high** |
 |    266.667    |         N/A         |         N/A         |      **4**       |     high      |
-##### Here are some other tables you can refer to:
+### Tables: 
 ![[../Media/Speed-Chart 2.png|Speed-Chart 2.png]]
 Credit to Mr. Pokke.
 
@@ -264,4 +264,4 @@ Dance! Dance! Dance! + 4-Pc Eagle + 2-Pc Vonwacq
 - S1 DDD = 153.600
   
 We hope you found this guide helpful.
-You can see guides of characters **here** and our home page **here**.
+You can check out more guides, information and game data On our home page [[../index|here]]. 

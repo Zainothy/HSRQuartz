@@ -262,7 +262,6 @@ Only useful for super skill point-intensive teams such as Dan Heng Imbibitor •
 This Eidolon makes Sparkle into a great support for teams with 2 or even 3 Damage Dealers that scale on CRIT, but doesn't do all that much in teams with only 1 Damage Dealer.
 
 We hope you found this guide helpful.
-You can see guides of characters **here** and our home page **here**.
-
+You can check out more guides, information and game data On our home page [[../../index|here]]. 
 [^1]: **Hypercarry Team:** A Team Composition made up of either: 1 Damage Dealer, 2 Supports and 1 Sustain characters or 1 Damage Dealer and 3 Supports, where the Damage Dealer makes up ~90% of the team's damage output.
 

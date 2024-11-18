@@ -6,10 +6,6 @@ tags:
   - T0
   - Physical
   - "#Support"
-  - Preservation
-  - Imaginary
-  - Sustain
-  - Hybrid
   - Support
 cssclasses:
   - center-titles
