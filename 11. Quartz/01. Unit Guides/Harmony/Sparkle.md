@@ -96,7 +96,7 @@ We will be giving you some examples of good and at least somewhat comfortable te
 | ----------------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------------------------------------------------- |
 
 ## 5. Trace Levelling Priority 
-#### Skill>Ultimate>Talent**
+#### Skill>Ultimate>Talent
 **All Ascension-locked Abilities Traces are important and must be unlocked.**
 - Unlock Crit. DMG stat bonus traces first, but eventually all.
 - Don't level up the basic attack.
