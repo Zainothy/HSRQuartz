@@ -3,7 +3,12 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-// Left Sidebar Components Alignment
+//Center Items 
+.center-images img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
 .center-titles
   :is(
     h1,
@@ -21,6 +26,18 @@
   ) {
   text-align: center;
 }
+// visual tweaks: 
+.image-borders img {
+    border: solid;
+    /* border-width: 1em; */
+    border-width: 2px;
+    /* border-radius: 6px; */
+    border-color: rgba(122, 122, 122, 0.2);
+}
+.no-embed-border {
+    --embed-border-left: 0px solid black !important;
+}
+// Left Sidebar Components Alignment
 .left {
     display: grid !important;
     gap: 1.5rem !important;
