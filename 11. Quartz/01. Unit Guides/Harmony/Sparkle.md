@@ -121,7 +121,7 @@ This Signature LC might seem incredible at first, but in actuality it's only a s
 The ERR is useless in 99.9% of cases.
 Extra SP Generation is welcome for some teams and DMG Bonus buff is decent, although it only lasts for 1 turn, making it *not* apply for Follow-up Attacks.
 ### 3. **Dance! Dance! Dance!**
-**Gacha 4★ Light Cone
+**Gacha 4★ Light Cone**
 ![[../../Media/Dance! Dance! Dance!.png|210]]
 >[!context] Light Cone Effect
 >
