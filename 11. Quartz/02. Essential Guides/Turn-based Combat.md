@@ -4,9 +4,6 @@ tags:
   - HSR
   - "#SpeedAV"
   - SpeedAV
-  - Harmony
-  - Support
-  - Quantum
 aliases:
   - Speed
   - Breakpoint
@@ -17,8 +14,8 @@ cssclasses:
   - center-titles
   - no-embed-border
   - image-borders
-  - center-images
   - wide-page
+  - center-images
 share: "true"
 Links: "false"
 Last_Updated: 2024-11-06
@@ -218,10 +215,10 @@ The SPD Stat characters have can have additional decimals. Check your characters
 | **$200.000$** |      ***13***       |       ***5***       |   ==***3***==    | **very high** |
 |    266.667    |         N/A         |         N/A         |      **4**       |     high      |
 ### Tables: 
-![[../Media/Speed-Chart 2.png|Speed-Chart 2.png]]
+![[../Media/Speed-Chart 2.png|../Media/Speed-Chart 2.png]]
 Credit to Mr. Pokke.
 
-![[../Media/Speed-Chart1.png|Speed-Chart1.png]]
+![[../Media/Speed-Chart1.png|../Media/Speed-Chart1.png]]
 ### Relevant Breakpoints with Action Forward
 **Effective 200 Speed (3 Turns in cycle 0)**
 Using Dance! Dance! Dance! light cone
