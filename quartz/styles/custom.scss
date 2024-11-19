@@ -4,7 +4,23 @@
 @use "./variables.scss" as *;
 
 // Left Sidebar Components Alignment
-
+.center-titles
+  :is(
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    .HyperMD-header.HyperMD-header-1,
+    .HyperMD-header.HyperMD-header-2,
+    .HyperMD-header.HyperMD-header-3,
+    .HyperMD-header.HyperMD-header-4,
+    .HyperMD-header.HyperMD-header-5,
+    .HyperMD-header.HyperMD-header-6
+  ) {
+  text-align: center;
+}
 .left {
     display: grid !important;
     gap: 1.5rem !important;
