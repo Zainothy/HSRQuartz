@@ -7,10 +7,10 @@ tags:
   - Support
 cssclasses:
   - center-titles
-  - center-images
   - no-embed-border
   - image-borders
   - wide-page
+  - center-images
 Credit: Lucian
 share: "true"
 splash_art: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhsr.honeyhunterworld.com%2Fimg%2Fcharacter%2Fsparkle-character_cut_in_icon.webp&f=1&nofb=1&ipt=af3b90410d3242b9a0cf6b5293914e059c1a570cf66aca98677f1b757f854942&ipo=images
@@ -103,16 +103,17 @@ We will be giving you some examples of good and at least somewhat comfortable te
 
 ## 6. Light Cone Rankings 
 ### 1. **Earthly Escapade**
-**Sparkle's Signature 5★ Light Cone
-![[../../Media/Earthly Escapade.png|210]]**
+**Sparkle's Signature 5★ Light Cone**
+![[../../Media/Earthly Escapade.png|200]]
+This Signature LC might seem incredible at first, but in actuality it's only a small upgrade over other options, unless the team you're using Sparkle in is one where damage is primarily dealt out-side Damage Dealers' turn.
 >[!context] Light Cone Effect
 >The wearer's Crit. DMG is increased by 32%
 At the start of battle as well as for every 4 skill points the wearer recovers, all allies' Crit. Rate and Crit. DMG gets increased by 10% and 28% respectively, for 4 turns
 
-This Signature LC might seem incredible at first, but in actuality it's only a small upgrade over other options, unless the team you're using Sparkle in is one where damage is primarily dealt out-side Damage Dealers' turn.
+
 ### 2. **But the Battle Isn't Over**
 **Bronya's Signature 5★ Light Cone**
-![[../../Media/But the Battle Isn't Over.png|210]]
+![[../../Media/But the Battle Isn't Over.png|200]]
 >[!context] Light Cone Effect
 >The Wearer's ERR is increased by 10%. 
 >The wearer's first Ultimate and every other one following it regenerates 1 Skill Point for the team.
@@ -122,7 +123,7 @@ The ERR is useless in 99.9% of cases.
 Extra SP Generation is welcome for some teams and DMG Bonus buff is decent, although it only lasts for 1 turn, making it *not* apply for Follow-up Attacks.
 ### 3. **Dance! Dance! Dance!**
 **Gacha 4★ Light Cone**
-![[../../Media/Dance! Dance! Dance!.png|210]]
+![[../../Media/Dance! Dance! Dance!.png|200]]
 >[!context] Light Cone Effect
 >
 Advances forward all allies' action by 16-24% when the wearer uses their Ultimate.
@@ -131,14 +132,14 @@ Action Forward is useful if you build enough speed to achieve a higher break poi
 Sparkle can consistently proc this Light Cone's effect, as she can achieve a 3 Turn Ultimate rotation by just using ERR main stat Link Rope.
 ### 4. **Past and Future**
 **Free 4★ Light Cone**
-![[../../Media/Past and Future.png|210]]
+![[../../Media/Past and Future.png|200]]
 >[!context] After using Skill on a target ally, buffs them with 16-32% Damage Bonus for 1 turn.
 
 DMG Bonus buff. It's not that big, but definitely helps.
 If you're using a Quantum Element Damage Dealer, it is likely better for you to use Planetary Rendezvous instead, as that Light Cone's effect is permanent.
 ### 5. **Planetary Rendezvous**
 **Gacha 4★ Light Cone**
-![[../../Media/Planetary Rendezvous.png|210]]
+![[../../Media/Planetary Rendezvous.png|200]]
 >[!context] Allies of the same Element Type as the wearer get buffed with 12-24% DMG Bonus permanently.
 
 >[!warning] Only use with a Quantum Element Damage Dealer.
