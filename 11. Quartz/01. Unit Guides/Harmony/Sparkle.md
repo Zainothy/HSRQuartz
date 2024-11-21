@@ -133,14 +133,16 @@ Sparkle can consistently proc this Light Cone's effect, as she can achieve a 3 T
 ### 4. **Past and Future**
 **Free 4★ Light Cone**
 ![[../../Media/Past and Future.png|200]]
->[!context] After using Skill on a target ally, buffs them with 16-32% Damage Bonus for 1 turn.
+>[!context] Light Cone Effect 
+> After using Skill on a target ally, buffs them with 16-32% Damage Bonus for 1 turn.
 
 DMG Bonus buff. It's not that big, but definitely helps.
 If you're using a Quantum Element Damage Dealer, it is likely better for you to use Planetary Rendezvous instead, as that Light Cone's effect is permanent.
 ### 5. **Planetary Rendezvous**
 **Gacha 4★ Light Cone**
 ![[../../Media/Planetary Rendezvous.png|200]]
->[!context] Allies of the same Element Type as the wearer get buffed with 12-24% DMG Bonus permanently.
+>[!context] Light Cone Effect 
+>Allies of the same Element Type as the wearer get buffed with 12-24% DMG Bonus permanently.
 
 >[!warning] Only use with a Quantum Element Damage Dealer.
  
