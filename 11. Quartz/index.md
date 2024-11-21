@@ -5,6 +5,10 @@ cssclasses:
   - center-titles
   - cards
   - center-images
+tags:
+  - Harmony
+  - Support
+  - Quantum
 ---
 Welcome to the Village’s HSR Guides. Here you can access a catalogue of essential HSR information. Such as guides, build information, unit analysis’ and more. 
 
