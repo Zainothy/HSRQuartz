@@ -162,49 +162,54 @@ If you're using a Quantum Element Damage Dealer, it is likely better for you to 
 ## 8. Relic and Planar Ornament Sets
 #### **Relic Sets**  
 - **Eagle of Twilight Line** (4-Piece Set Effect ONLY)
-    When using the Ultimate, wearer's Action is Forwarded by 24%. 
+    *When using the Ultimate, wearer's Action is Forwarded by 24%.* 
   This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
 
 - **Sacerdos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
-	- Increases Speed by 6%
-	- When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.
+	- *Increases Speed by 6%*
+	- *When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.*
 
 **TL;DR** Eagle is best when trying to achieve specific speed tuning breakpoints, 3 Turns in 0 cycle (effective 200) for example, while Sacerdos is the best general purpose set increasing Sparkle's damage amplification.
 #### **Planar Ornament Sets**
 The difference in buffing capability isn't that big and Sparkle doesn't care for extra ERR, so just use the set that you happened to get the best stats on while grinding for other sets like Bananamusement or Rutilant Arena.
 
 1. **Lushaka, the Sunken Seas**
-    Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%. 
+    *Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%.* 
+
 Amplifies a single ally's damage the most. Other set effects can be better.
 
 3. **Broken Keel**
-    All allies' Crit. DMG is increased by 10% if the wearer's Effect RES **≥** 30%. Increases the wearer's Effect RES by 10%.
+    *All allies' Crit. DMG is increased by 10% if the wearer's Effect RES **≥** 30%. Increases the wearer's Effect RES by 10%.*
+
 Amplifies the entire team's damage the most, assuming allies scale on CRIT.
 Make sure to get Effect Resistance sub-stats to proc its effect.
 
 4. **Fleet of the Ageless**
-    All allies' ATK is increased by 8% ATK when the wearer's SPD is **≥** 120.
-    The wearer's HP is increased by 12%.
+    *All allies' ATK is increased by 8% ATK when the wearer's SPD is **≥** 120.*
+    *The wearer's HP is increased by 12%.*
+
 Generally the best set to use on a support that you use in a DoT team, but Sparkle isn't a support for that type of team.
 HP buff is nice. ATK buff is small, so it's likely better to use whatever relics you have with good stats instead of forcing yourself to use this set.
 Efficient set to grind for new players.
 
 5. **Sprightly Vonwacq**
-    At the start of battle, wearer's Action is Forwarded by 40%.
-    The wearer's ERR is increased by 5%.
+    *At the start of battle, wearer's Action is Forwarded by 40%.*
+    *The wearer's ERR is increased by 5%.*
+
 Action Forward allows Sparkle to get extra turns.
 Can be a bad set to use if you have allies that need to act before the wearer (for example, to give buffs like Tingyun). This can be worked around if you increase those/that allies'/ally's SPD, but you might not be able to or is inconvenient to.
 
 6. **Penacony, Land of the Dreams**
-    Allies of the same Element Type as the wearer have their DMG Bonus increased by 10%. This effect does not apply to the wearer.
-    The wearer's ERR is increased by 5%.
-    Only use with a quantum element damage dealer.
-Usable only if you can proc its DMG Bonus effect.
-Generally still worse than Broken Keel.
+    *Allies of the same Element Type as the wearer have their DMG Bonus increased by 10%. This effect does not apply to the wearer.*
+    *The wearer's ERR is increased by 5%.*
+- Only use with a quantum element damage dealer.
+- Usable only if you can proc its DMG Bonus effect.
+- Generally still worse than Broken Keel.
 
 7. **Forge of the Kalpagni Lantern**
-    The wearer's SPD is increased by 6%.
-    The second affect is inapplicable and useless.
+    *The wearer's SPD is increased by 6%.*
+    *The second affect is inapplicable and useless.*
+
 Useful for hitting SPD Break Points. Otherwise a useless set.
 
 ## 9. Stat Goals
@@ -249,22 +254,30 @@ You can check your character's SPD numbers with 3 decimals by holding your curso
 >[!tip] For Break Points with 1 proc of S5 DDD, every superimposition you're missing adds around 1.4 SPD extra speed that you have to build.
 ## 11. Eidolons Run-down
 ##### **Eidolon 1**
-    The 'Cipher' effect given by the Ultimate lasts for 1 more turn and all allies' ATK is increased by 40% while they hold 'Cipher'.
+    The 'Cipher' effect given by the Ultimate lasts for 1 more turn 
+    and all allies' ATK is increased by 40% while they hold 
+    'Cipher'.
 ATK Buff is decent and the Cipher turn duration extension allows the DMG Bonus increase effect from the Ultimate effectively be permanent after the first Ultimate usage.
 ##### **Eidolon 2**
-    Every stack of the Talent now additionally allows allies to ignore 8% of the enemy's DEF when attacking, stacking up to 3 times for a total of 24% DEF Ignore.
+    Every stack of the Talent now additionally allows allies to 
+    ignore 8% of the enemy's DEF when attacking, stacking up to 3 
+    times for a total of 24% DEF Ignore.
 DEF Ignore and DEF Shred is always welcome and is a good damage increase, even more so the more of it you stack, up to 100%.
 ~15% DMG Increase to ~18% DMG Increase (0 DEF Shred vs 76% DEF Shred present)
 Great eidolon that makes Sparkle's damage amplification feel quite significant.
 ##### **Eidolon 4**
-    The ultimate recovers 1 extra Skill Point and Max Skill Points are increased by 1 additional skill point, from 7 to 8.
+    The ultimate recovers 1 extra Skill Point and Max Skill Points 
+    are increased by 1 additional skill point, from 7 to 8.
 Only useful for super skill point-intensive teams such as Dan Heng Imbibitor • Lunae's and Qingque's.
 ##### **Eidolon 6**
-    The Crit. DMG buff provided by the skill is increased by an additional 30% of Sparkle's Crit. DMG and its effect now extends to all allies with 'Cipher'.
-    As long as 1 ally holds Cipher, its effect will be spread to all other teammates with 'Cipher'.
+    The Crit. DMG buff provided by the skill is increased by an 
+    additional 30% of Sparkle's Crit. DMG and its effect now 
+    extends to all allies with 'Cipher'.
+    As long as 1 ally holds Cipher, its effect will be spread to 
+    all other teammates with 'Cipher'.
 This Eidolon makes Sparkle into a great support for teams with 2 or even 3 Damage Dealers that scale on CRIT, but doesn't do all that much in teams with only 1 Damage Dealer.
 
-We hope you found this guide helpful.
-You can check out more guides, information and game data On our home page [[../../index|here]]. 
+**We hope you found this guide helpful, you can  check out more guides, information and data on our [[../../index|home page]]. Also, please feel free to leave any feedback or log any issue on the Github, as we are still a developmental project and would greatly appreciate your help.**
+
 [^1]: **Hypercarry Team:** A Team Composition made up of either: 1 Damage Dealer, 2 Supports and 1 Sustain characters or 1 Damage Dealer and 3 Supports, where the Damage Dealer makes up ~90% of the team's damage output.
 
