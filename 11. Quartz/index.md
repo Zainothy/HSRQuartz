@@ -8,7 +8,9 @@ cssclasses:
 ---
 Welcome to the Village’s HSR Guides. Here you can access a catalogue of essential HSR information. Such as guides, build information, unit analysis’ and more. 
 
-**Note:** A large amount of the guides here use specific subject terminology used amongst theorycrafters, and meta players. Whilst me and my team have attempted to make things as user friendly as possible. Please consult the [Glossary] if you are unsure on a term, or check the footnotes of a guide. 
+**Note:** A large amount of the guides here use specific subject terminology used amongst theorycrafters, and meta players. Whilst me and my team have attempted to make things as user friendly as possible. Please consult the [[./02. Essential Guides/Glossary|Glossary]] if you are unsure on a term, or check the footnotes of a guide. 
+
+	Glossary not live yet, sorry :(
 
 # Character Guides 
 
