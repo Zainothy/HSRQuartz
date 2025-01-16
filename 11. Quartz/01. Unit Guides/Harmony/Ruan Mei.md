@@ -109,23 +109,29 @@ Fast Mei: Energy Regeneration Rate%
 	There is no one definitive best choice, RM's relics are quite 
     dependent on the scenario 
 - **Watchmaker, Master Dream of Machinations** (4-Piece ONLY)
-	When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by **30%** for **2** turn(s). This effect cannot be stacked.
+	*When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by **30%** for **2** turn(s). This effect cannot be stacked.*
+	
   This set is Ruan Mei’s best supporting set for break teams, and is ideal when it is not in use by Harmony MC. However, it doesn’t contribute anything to non-break comps, and is effectively useless if in use by other allies. 
 - **Iron Cavalry Against the Scourge** (4 Piece): 
-	If the wearer's Break Effect is 150% or higher, ignores **10%** of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores **15%** of the targets' DEF.
+	*If the wearer's Break Effect is 150% or higher, ignores **10%** of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores **15%** of the targets' DEF.*
+	
   This set is Ruan Mei’s best set if looking to prioritise personal damage, only when in a superbreak team. The nature of SB teams allow basically everyone to do decent damage, and this set can enable that. Which is helpful in avoiding the dreaded 1%, and will probably be your best alternative if Harmony MC has Watchmaker
 - **2-Piece + 2-Piece Break Effect/Speed Combo:**
-	A combination of 2pc sets that provide speed or break effect, e.g. Combining 2pc Cavalry (16% Break Effect) with 2pc sacredos (6% Speed). 
+	*A combination of 2pc sets that provide speed or break effect, e.g. Combining 2pc Cavalry (16% Break Effect) with 2pc sacredos (6% Speed).* 
+	
   These, as stated by the game: only provide stat bonuses. Which is helpful in hitting a desired breakpoint in speed or break effect, you will probably find yourself using this combination if you are not running Ruan Mei in a break team, and/or you want to hit the required stats more easily. 
 #### **Planar Ornament Sets**
 - **Lushaka, the Sunken Seas**
-	Increases the wearer's Energy Regeneration Rate by **5%**. If the wearer is not the first character in the team lineup, then increase the ATK of the first character in the team lineup by **12%**.
+	*Increases the wearer's Energy Regeneration Rate by **5%**. If the wearer is not the first character in the team lineup, then increase the ATK of the first character in the team lineup by **12%**.* 
+	
   This is RM’s best supporting planar, generally. Specifically when looking to amplify one specific character a decent amount, suitable for hypercarry and can work with Firefly and Rappa, due to their ATK% to BE% conversion. However, it is not applicable for Break teams without that conversion. Furthermore, teams that don’t desire ATK% buffs. 
 - **Forge of The Kalpagni Lantern**
-	Increase the wearer's SPD by **6%**. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by **40%**, lasting for **1** turn(s).
+	*Increase the wearer's SPD by **6%**. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by **40%**, lasting for **1** turn(s).*
+  
   This set is beneficial if it allows you to hit a certain break effect or speed threshold, providing nothing beyond that. Do note that if you are not running firefly, and are against non-fire weak enemies: you will not be able to take full advantage of this set. 
 - **Sprightly Vonwacq**
-	Increases the wearer's Energy Regeneration Rate by **5%**. When the wearer's SPD reaches **120** or higher, the wearer's action is Advanced Forward by **40%** immediately upon entering battle.
+	*Increases the wearer's Energy Regeneration Rate by **5%**. When the wearer's SPD reaches **120** or higher, the wearer's action is Advanced Forward by **40%** immediately upon entering battle.*
+	
   Enables certain ultimate rotations, and may be needed in order to achieve a 3 turn ultimate on Fast Mei. Along with this, it is **needed** to run Slow Mei, as it is the only way to have your ultimate up before the rest of your team takes action. Typically, you will be running either this or Lushaka on non-break teams, depending on if you are prioritising damage or utility. 
 ## 9. Stat Goals: 
 - **Fast Mei:** 160+ Break Effect 
