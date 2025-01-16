@@ -6,7 +6,7 @@ tags:
   - SpeedAV
   - Harmony
   - Support
-  - Quantum
+  - Ice
 aliases:
   - Speed
   - Breakpoint

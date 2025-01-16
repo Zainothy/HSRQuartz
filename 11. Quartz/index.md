@@ -6,6 +6,10 @@ cssclasses:
   - center-images
   - no-embed-border
   - cards
+tags:
+  - Harmony
+  - Support
+  - Ice
 ---
 Welcome to the Village’s HSR Guides. Here you can access a catalogue of essential HSR information. Such as guides, build information, unit analysis’ and more. 
 
