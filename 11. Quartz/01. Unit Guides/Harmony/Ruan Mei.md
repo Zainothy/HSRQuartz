@@ -6,7 +6,7 @@ cssclasses:
   - no-embed-border
   - image-borders
   - wide-page
-splash_art: https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_Ruan_Mei_Splash_Art.png/revision/latest?cb=20231227021137
+splash_art: https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_Ruan_Mei_Splash_Art.png/revision/latest/scale-to-width-down/1200?cb=20231227021137
 tags:
   - Harmony
   - Support
