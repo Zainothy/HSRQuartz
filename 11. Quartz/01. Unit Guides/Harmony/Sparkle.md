@@ -161,54 +161,53 @@ If you're using a Quantum Element Damage Dealer, it is likely better for you to 
 4. **Effect Resistance%**
 ## 8. Relic and Planar Ornament Sets
 #### **Relic Sets**  
-- **Eagle of Twilight Line** (4-Piece Set Effect ONLY)
-    *When using the Ultimate, wearer's Action is Forwarded by 24%.* 
-  This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
-
-- **Sacerdos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
+##### **Eagle of Twilight Line** 
+(4-Piece Set Effect ONLY)
+*When using the Ultimate, wearer's Action is Forwarded by 24%.* 
+This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
+##### **Sacerdos’ Relived Ordeal (4 Piece):** 
+This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
 	- *Increases Speed by 6%*
 	- *When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.*
 
 **TL;DR** Eagle is best when trying to achieve specific speed tuning breakpoints, 3 Turns in 0 cycle (effective 200) for example, while Sacerdos is the best general purpose set increasing Sparkle's damage amplification.
+***
 #### **Planar Ornament Sets**
 The difference in buffing capability isn't that big and Sparkle doesn't care for extra ERR, so just use the set that you happened to get the best stats on while grinding for other sets like Bananamusement or Rutilant Arena.
 
-1. **Lushaka, the Sunken Seas**
-    *Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%.* 
-
+##### 1. **Lushaka, the Sunken Seas**
+*Increases the wearer’s ERR by 5% and increases the ATK of the first character in the party line-up (besides the wearer) by 12%.* 
 Amplifies a single ally's damage the most. Other set effects can be better.
 
-3. **Broken Keel**
-    *All allies' Crit. DMG is increased by 10% if the wearer's Effect RES **≥** 30%. Increases the wearer's Effect RES by 10%.*
-
+##### 2. **Broken Keel**
+*All allies' Crit. DMG is increased by 10% if the wearer's Effect RES **≥** 30%. Increases the wearer's Effect RES by 10%.*
 Amplifies the entire team's damage the most, assuming allies scale on CRIT.
 Make sure to get Effect Resistance sub-stats to proc its effect.
 
-4. **Fleet of the Ageless**
-    *All allies' ATK is increased by 8% ATK when the wearer's SPD is **≥** 120.*
-    *The wearer's HP is increased by 12%.*
-
+##### 3. **Fleet of the Ageless**
+*All allies' ATK is increased by 8% ATK when the wearer's SPD is **≥** 120.*
+*The wearer's HP is increased by 12%.*
 Generally the best set to use on a support that you use in a DoT team, but Sparkle isn't a support for that type of team.
 HP buff is nice. ATK buff is small, so it's likely better to use whatever relics you have with good stats instead of forcing yourself to use this set.
 Efficient set to grind for new players.
 
-5. **Sprightly Vonwacq**
-    *At the start of battle, wearer's Action is Forwarded by 40%.*
-    *The wearer's ERR is increased by 5%.*
-
+##### 4. **Sprightly Vonwacq**
+*At the start of battle, wearer's Action is Forwarded by 40%.*
+*The wearer's ERR is increased by 5%.*
 Action Forward allows Sparkle to get extra turns.
 Can be a bad set to use if you have allies that need to act before the wearer (for example, to give buffs like Tingyun). This can be worked around if you increase those/that allies'/ally's SPD, but you might not be able to or is inconvenient to.
 
-6. **Penacony, Land of the Dreams**
-    *Allies of the same Element Type as the wearer have their DMG Bonus increased by 10%. This effect does not apply to the wearer.*
-    *The wearer's ERR is increased by 5%.*
+##### 5. **Penacony, Land of the Dreams**
+*Allies of the same Element Type as the wearer have their DMG Bonus increased by 10%. This effect does not apply to the wearer.*
+*The wearer's ERR is increased by 5%.*
+
 - Only use with a quantum element damage dealer.
 - Usable only if you can proc its DMG Bonus effect.
 - Generally still worse than Broken Keel.
 
-7. **Forge of the Kalpagni Lantern**
-    *The wearer's SPD is increased by 6%.*
-    *The second affect is inapplicable and useless.*
+##### 6. **Forge of the Kalpagni Lantern**
+*The wearer's SPD is increased by 6%.*
+*The second affect is inapplicable and useless.*
 
 Useful for hitting SPD Break Points. Otherwise a useless set.
 
