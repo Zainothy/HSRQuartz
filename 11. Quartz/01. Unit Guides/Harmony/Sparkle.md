@@ -161,15 +161,17 @@ If you're using a Quantum Element Damage Dealer, it is likely better for you to 
 4. **Effect Resistance%**
 ## 8. Relic and Planar Ornament Sets
 #### **Relic Sets**  
-- **Eagle of Twilight Line** (4-Piece Set Effect ONLY)
-    *When using the Ultimate, wearer's Action is Forwarded by 24%.* 
-  This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
-
-- **Sacerdos’ Relived Ordeal (4 Piece):** This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
+##### **Eagle of Twilight Line** 
+(4-Piece Set Effect ONLY)
+*When using the Ultimate, wearer's Action is Forwarded by 24%.* 
+This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
+##### **Sacerdos’ Relived Ordeal (4 Piece):** 
+This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
 	- *Increases Speed by 6%*
 	- *When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.*
 
 **TL;DR** Eagle is best when trying to achieve specific speed tuning breakpoints, 3 Turns in 0 cycle (effective 200) for example, while Sacerdos is the best general purpose set increasing Sparkle's damage amplification.
+***
 #### **Planar Ornament Sets**
 The difference in buffing capability isn't that big and Sparkle doesn't care for extra ERR, so just use the set that you happened to get the best stats on while grinding for other sets like Bananamusement or Rutilant Arena.
 
